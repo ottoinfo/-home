@@ -1,0 +1,36 @@
+# General settings
+fontSize = 10
+showInvisibles = true
+spellChecking = true
+tabSize = 2
+softTabs = true
+softWrap = true
+wrapColumn = 160 | "Use Window Frame" # choose one
+excludeInFolderSearch = "{$excludeInFolderSearch,log,vendor,tmp,META-INF,.svn}"
+
+
+# Defaults for SCSS
+[ *.{scss} ]
+fileType = source.scss
+
+# Defaults for SASS/SCSS
+[ *.{sass} ]
+fileType = source.sass
+
+# Defaults for python
+[ source.python ]
+softTabs = true
+tabSize = 4
+
+[ .git/COMMIT_EDITMSG ]
+spellChecking    = true
+spellingLanguage = 'en'
+
+[ text.html.markdown ]
+softWrap = true
+wrapColumn = "Use Window Frame"
+softTabs = false
+tabSize = 4
+
+[ "{README,INSTALL,LICENSE,TODO}" ]
+fileType = "text.plain"
