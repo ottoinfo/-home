@@ -1,0 +1,17 @@
+# LSCOLORS - dir symlnk socket pipe exec block character exec_ww/_uid exec_ww/_gid dir_write_w/_sticky dir_write_w/out_sticky 
+export CLICOLOR=1
+export LSCOLORS=gxgxhxDxfxhxhxhxhxgxgx
+export EDITOR="mate -w"
+export NODE_PATH="usr/local/lib"
+export PATH="~/bin:/opt/local/bin:/opt/local/sbin:/usr/local/mysql/bin:$PATH:$NODE_PATH"
+export VCPROMPT_FORMAT="%s B:%b V:%r S:%i" vcprompt
+export HISTSIZE=100000 SAVEHIST=100000
+
+# This loads RVM into a shell session.
+if [[ -s ~/.rvm/scripts/rvm ]]; then 
+  source ~/.rvm/scripts/rvm
+fi
+
+if [ -f `brew --prefix`/etc/bash_completion ]; then
+  . `brew --prefix`/etc/bash_completion
+fi

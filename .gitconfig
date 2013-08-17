@@ -1,0 +1,50 @@
+[user]
+	name = Matt Otto
+	email = matt@ottoinfo.com
+
+[github]
+	user = matt@ottoinfo.com
+	password = otto1881
+
+[color]
+	ui = auto
+	diff = auto
+	status = auto
+	branch = auto
+	interactive = auto
+
+[core]
+	quotepath = false
+	autocrlf = false
+	safecrlf = false
+	eol = lf
+	excludesfile = /Users/matthewotto/.gitignore_global
+	editor = $EDITOR -w
+
+[alias]
+	au = add -u .
+	br = branch
+	ci = commit
+	co = checkout
+	df = diff
+	hard = reset --hard
+	lg = log
+	pom = push origin master
+	sb = show-branch
+	st = status
+	w = whatchanged
+
+[diff]
+	renamelimit = 0
+	tool = opendiff
+  
+[merge]
+	tool = opendiff
+[push]
+	default = matching
+[difftool "sourcetree"]
+	cmd = opendiff \"$LOCAL\" \"$REMOTE\"
+	path = 
+[mergetool "sourcetree"]
+	cmd = /Applications/SourceTree.app/Contents/Resources/opendiff-w.sh \"$LOCAL\" \"$REMOTE\" -ancestor \"$BASE\" -merge \"$MERGED\"
+	trustExitCode = true

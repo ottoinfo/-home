@@ -1,0 +1,3214 @@
+OptiPNG 0.6.4: Advanced PNG optimizer.
+Copyright (C) 2001-2010 Cosmin Truta.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/address_book_icons/facebook.png
+150x50 pixels, 4x8 bits/pixel, RGB+alpha
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/agent.png
+170x160 pixels, 3x8 bits/pixel, RGB
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/co-brand/latimes.png
+485x75 pixels, 8 bits/pixel, 60 colors (43 transparent) in palette
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/contact_importer/aol_status_up.png
+162x90 pixels, 4x8 bits/pixel, RGB+alpha, interlaced
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/contact_importer/evite_status_up.png
+162x90 pixels, 4x8 bits/pixel, RGB+alpha
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/contact_importer/facebook_status_up.png
+162x90 pixels, 4x8 bits/pixel, RGB+alpha
+Input IDAT size = 5535 bytes
+Input file size = 5629 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0  zc = 9  zm = 8  zs = 1  f = 0  zc = 1  zm = 8  zs = 2  f = 0  zc = 9  zm = 8  zs = 3  f = 0  zc = 9  zm = 8  zs = 0  f = 5  zc = 9  zm = 8  zs = 1  f = 5  zc = 1  zm = 8  zs = 2  f = 5  zc = 9  zm = 8  zs = 3  f = 5                               
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/contact_importer/facebook_status_up.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/contact_importer/gmail_status_up.png
+162x90 pixels, 4x8 bits/pixel, RGB+alpha, interlaced
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/contact_importer/msn_status_up.png
+162x90 pixels, 4x8 bits/pixel, RGB+alpha
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/contact_importer/twitter_status_up.png
+162x90 pixels, 4x8 bits/pixel, RGB+alpha
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/contact_importer/yahoo_status_up.png
+162x90 pixels, 4x8 bits/pixel, RGB+alpha, interlaced
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/facebook_button.png
+25x25 pixels, 4x8 bits/pixel, RGB+alpha
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/no-photo.png
+342x225 pixels, 8 bits/pixel, 126 colors (73 transparent) in palette
+Input IDAT size = 624 bytes
+Input file size = 1193 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0		IDAT size = 648
+  zc = 9  zm = 8  zs = 1  f = 0  zc = 1  zm = 8  zs = 2  f = 0  zc = 9  zm = 8  zs = 3  f = 0  zc = 9  zm = 8  zs = 0  f = 5		IDAT size = 629
+  zc = 9  zm = 8  zs = 1  f = 5		IDAT size = 624
+  zc = 1  zm = 8  zs = 2  f = 5  zc = 9  zm = 8  zs = 3  f = 5                               
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/no-photo.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/publisher.png
+170x160 pixels, 3x8 bits/pixel, RGB
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/treat_buddies/facebook_status_up.png
+162x90 pixels, 4x8 bits/pixel, RGB+alpha
+Input IDAT size = 5535 bytes
+Input file size = 5629 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0  zc = 9  zm = 8  zs = 1  f = 0  zc = 1  zm = 8  zs = 2  f = 0  zc = 9  zm = 8  zs = 3  f = 0  zc = 9  zm = 8  zs = 0  f = 5  zc = 9  zm = 8  zs = 1  f = 5  zc = 1  zm = 8  zs = 2  f = 5  zc = 9  zm = 8  zs = 3  f = 5                               
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/treat_buddies/facebook_status_up.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/treat_buddies/mail_ru_status_up.png
+162x90 pixels, 4x8 bits/pixel, RGB+alpha
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/treat_buddies/twitter_status_up.png
+162x90 pixels, 4x8 bits/pixel, RGB+alpha
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/upload-image.png
+342x225 pixels, 8 bits/pixel, 139 colors (70 transparent) in palette
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/user.png
+170x160 pixels, 3x8 bits/pixel, RGB
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/vendor.png
+170x160 pixels, 3x8 bits/pixel, RGB
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/videoPlayer/fullscreenOff.png
+18x18 pixels, 1 bit/pixel, 2 colors (1 transparent) in palette
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/videoPlayer/fullscreenOn.png
+18x18 pixels, 1 bit/pixel, 2 colors (1 transparent) in palette
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/videoPlayer/pause.png
+65x40 pixels, 8 bits/pixel, 28 colors (19 transparent) in palette
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/videoPlayer/play.png
+65x40 pixels, 8 bits/pixel, 31 colors (19 transparent) in palette
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/videoPlayer/trackTime.png
+24x13 pixels, 2 bits/pixel, 3 colors in palette
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/videoPlayer/watermark.png
+177x25 pixels, 4x8 bits/pixel, RGB+alpha
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/agentsection/account/my-account-close-btn.png
+99x84 pixels, 8 bits/pixel, 233 colors (87 transparent) in palette
+Input IDAT size = 1880 bytes
+Input file size = 2784 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0		IDAT size = 2333
+  zc = 9  zm = 8  zs = 1  f = 0  zc = 1  zm = 8  zs = 2  f = 0  zc = 9  zm = 8  zs = 3  f = 0  zc = 9  zm = 8  zs = 0  f = 5		IDAT size = 1883
+  zc = 9  zm = 8  zs = 1  f = 5		IDAT size = 1880
+  zc = 1  zm = 8  zs = 2  f = 5  zc = 9  zm = 8  zs = 3  f = 5                               
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/agentsection/account/my-account-close-btn.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/agentsection/account/payment-dotted-line.png
+662x8 pixels, 8 bits/pixel, 83 colors (83 transparent) in palette
+Input IDAT size = 1633 bytes
+Input file size = 2083 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0		IDAT size = 1644
+  zc = 9  zm = 8  zs = 1  f = 0		IDAT size = 1633
+  zc = 1  zm = 8  zs = 2  f = 0  zc = 9  zm = 8  zs = 3  f = 0  zc = 9  zm = 8  zs = 0  f = 5  zc = 9  zm = 8  zs = 1  f = 5  zc = 1  zm = 8  zs = 2  f = 5  zc = 9  zm = 8  zs = 3  f = 5                               
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/agentsection/account/payment-dotted-line.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/agentsection/account/payment-form-brown-btn.png
+197x52 pixels, 4x8 bits/pixel, RGB+alpha
+Reducing image to 8 bits/pixel, 200 colors (190 transparent) in palette
+Input IDAT size = 1667 bytes
+Input file size = 1761 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0		IDAT size = 1012
+  zc = 9  zm = 8  zs = 1  f = 0  zc = 1  zm = 8  zs = 2  f = 0  zc = 9  zm = 8  zs = 3  f = 0  zc = 9  zm = 8  zs = 0  f = 5		IDAT size = 915
+  zc = 9  zm = 8  zs = 1  f = 5		IDAT size = 897
+  zc = 1  zm = 8  zs = 2  f = 5  zc = 9  zm = 8  zs = 3  f = 5		IDAT size = 883
+
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/agentsection/account/payment-form-brown-btn.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/agentsection/account/profile-web-brown-bg.png
+760x438 pixels, 4x8 bits/pixel, RGB+alpha
+Input IDAT size = 14618 bytes
+Input file size = 14712 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0  zc = 9  zm = 8  zs = 1  f = 0  zc = 1  zm = 8  zs = 2  f = 0  zc = 9  zm = 8  zs = 3  f = 0  zc = 9  zm = 8  zs = 0  f = 5  zc = 9  zm = 8  zs = 1  f = 5		IDAT size = 14618
+  zc = 1  zm = 8  zs = 2  f = 5  zc = 9  zm = 8  zs = 3  f = 5                               
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/agentsection/account/profile-web-brown-bg.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/agentsection/account/profile-web-white-box.png
+213x219 pixels, 8 bits/pixel, 239 colors (238 transparent) in palette
+Input IDAT size = 873 bytes
+Input file size = 1946 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0		IDAT size = 952
+  zc = 9  zm = 8  zs = 1  f = 0  zc = 1  zm = 8  zs = 2  f = 0  zc = 9  zm = 8  zs = 3  f = 0  zc = 9  zm = 8  zs = 0  f = 5		IDAT size = 894
+  zc = 9  zm = 8  zs = 1  f = 5		IDAT size = 873
+  zc = 1  zm = 8  zs = 2  f = 5  zc = 9  zm = 8  zs = 3  f = 5                               
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/agentsection/account/profile-web-white-box.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/agentsection/account/save-changes-btn.png
+143x43 pixels, 4x8 bits/pixel, RGB+alpha
+Reducing image to 8 bits/pixel, 169 colors (168 transparent) in palette
+Input IDAT size = 1261 bytes
+Input file size = 1355 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0		IDAT size = 787
+  zc = 9  zm = 8  zs = 1  f = 0  zc = 1  zm = 8  zs = 2  f = 0  zc = 9  zm = 8  zs = 3  f = 0  zc = 9  zm = 8  zs = 0  f = 5		IDAT size = 684
+  zc = 9  zm = 8  zs = 1  f = 5		IDAT size = 680
+  zc = 1  zm = 8  zs = 2  f = 5  zc = 9  zm = 8  zs = 3  f = 5		IDAT size = 668
+
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/agentsection/account/save-changes-btn.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/agentsection/find-check-num-check-area-txt.png
+658x403 pixels, 4x8 bits/pixel, RGB+alpha
+Input IDAT size = 39643 bytes
+Input file size = 39737 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0		IDAT size = 39643
+  zc = 9  zm = 8  zs = 1  f = 0  zc = 1  zm = 8  zs = 2  f = 0  zc = 9  zm = 8  zs = 3  f = 0  zc = 9  zm = 8  zs = 0  f = 5  zc = 9  zm = 8  zs = 1  f = 5  zc = 1  zm = 8  zs = 2  f = 5  zc = 9  zm = 8  zs = 3  f = 5                               
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/agentsection/find-check-num-check-area-txt.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/agentsection/howitworks/box-1-graphic.png
+81x70 pixels, 4x8 bits/pixel, RGB+alpha
+Input IDAT size = 2719 bytes
+Input file size = 2813 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0		IDAT size = 2719
+  zc = 9  zm = 8  zs = 1  f = 0  zc = 1  zm = 8  zs = 2  f = 0  zc = 9  zm = 8  zs = 3  f = 0  zc = 9  zm = 8  zs = 0  f = 5  zc = 9  zm = 8  zs = 1  f = 5  zc = 1  zm = 8  zs = 2  f = 5  zc = 9  zm = 8  zs = 3  f = 5                               
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/agentsection/howitworks/box-1-graphic.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/agentsection/howitworks/box-2-graphic.png
+130x69 pixels, 4x8 bits/pixel, RGB+alpha
+Input IDAT size = 3907 bytes
+Input file size = 4001 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0		IDAT size = 3907
+  zc = 9  zm = 8  zs = 1  f = 0  zc = 1  zm = 8  zs = 2  f = 0  zc = 9  zm = 8  zs = 3  f = 0  zc = 9  zm = 8  zs = 0  f = 5  zc = 9  zm = 8  zs = 1  f = 5  zc = 1  zm = 8  zs = 2  f = 5  zc = 9  zm = 8  zs = 3  f = 5                               
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/agentsection/howitworks/box-2-graphic.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/agentsection/howitworks/box-3-graphic.png
+69x77 pixels, 4x8 bits/pixel, RGB+alpha
+Input IDAT size = 2355 bytes
+Input file size = 2449 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0		IDAT size = 2355
+  zc = 9  zm = 8  zs = 1  f = 0  zc = 1  zm = 8  zs = 2  f = 0  zc = 9  zm = 8  zs = 3  f = 0  zc = 9  zm = 8  zs = 0  f = 5  zc = 9  zm = 8  zs = 1  f = 5  zc = 1  zm = 8  zs = 2  f = 5  zc = 9  zm = 8  zs = 3  f = 5                               
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/agentsection/howitworks/box-3-graphic.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/agentsection/howitworks/create-account-over.png
+183x203 pixels, 4x8 bits/pixel, RGB+alpha
+Input IDAT size = 10832 bytes
+Input file size = 10926 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0		IDAT size = 10832
+  zc = 9  zm = 8  zs = 1  f = 0  zc = 1  zm = 8  zs = 2  f = 0  zc = 9  zm = 8  zs = 3  f = 0  zc = 9  zm = 8  zs = 0  f = 5  zc = 9  zm = 8  zs = 1  f = 5  zc = 1  zm = 8  zs = 2  f = 5  zc = 9  zm = 8  zs = 3  f = 5                               
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/agentsection/howitworks/create-account-over.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/agentsection/howitworks/create-account.png
+183x203 pixels, 4x8 bits/pixel, RGB+alpha
+Input IDAT size = 10766 bytes
+Input file size = 10860 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0		IDAT size = 10766
+  zc = 9  zm = 8  zs = 1  f = 0  zc = 1  zm = 8  zs = 2  f = 0  zc = 9  zm = 8  zs = 3  f = 0  zc = 9  zm = 8  zs = 0  f = 5  zc = 9  zm = 8  zs = 1  f = 5  zc = 1  zm = 8  zs = 2  f = 5  zc = 9  zm = 8  zs = 3  f = 5                               
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/agentsection/howitworks/create-account.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/agentsection/my-account-close-btn.png
+99x84 pixels, 8 bits/pixel, 233 colors (87 transparent) in palette
+Input IDAT size = 1880 bytes
+Input file size = 2784 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0		IDAT size = 2333
+  zc = 9  zm = 8  zs = 1  f = 0  zc = 1  zm = 8  zs = 2  f = 0  zc = 9  zm = 8  zs = 3  f = 0  zc = 9  zm = 8  zs = 0  f = 5		IDAT size = 1883
+  zc = 9  zm = 8  zs = 1  f = 5		IDAT size = 1880
+  zc = 1  zm = 8  zs = 2  f = 5  zc = 9  zm = 8  zs = 3  f = 5                               
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/agentsection/my-account-close-btn.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/agentsection/my-account-payment-dotted-line.png
+662x8 pixels, 8 bits/pixel, 83 colors (83 transparent) in palette
+Input IDAT size = 1633 bytes
+Input file size = 2083 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0		IDAT size = 1644
+  zc = 9  zm = 8  zs = 1  f = 0		IDAT size = 1633
+  zc = 1  zm = 8  zs = 2  f = 0  zc = 9  zm = 8  zs = 3  f = 0  zc = 9  zm = 8  zs = 0  f = 5  zc = 9  zm = 8  zs = 1  f = 5  zc = 1  zm = 8  zs = 2  f = 5  zc = 9  zm = 8  zs = 3  f = 5                               
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/agentsection/my-account-payment-dotted-line.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/agentsection/overview/overview-balance-btn.png
+155x62 pixels, 4x8 bits/pixel, RGB+alpha
+Input IDAT size = 7079 bytes
+Input file size = 7173 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0		IDAT size = 7079
+  zc = 9  zm = 8  zs = 1  f = 0  zc = 1  zm = 8  zs = 2  f = 0  zc = 9  zm = 8  zs = 3  f = 0  zc = 9  zm = 8  zs = 0  f = 5  zc = 9  zm = 8  zs = 1  f = 5  zc = 1  zm = 8  zs = 2  f = 5  zc = 9  zm = 8  zs = 3  f = 5                               
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/agentsection/overview/overview-balance-btn.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/agentsection/overview/overview-cracked-egg-btn.png
+59x60 pixels, 4x8 bits/pixel, RGB+alpha
+Input IDAT size = 3237 bytes
+Input file size = 3331 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0		IDAT size = 3237
+  zc = 9  zm = 8  zs = 1  f = 0  zc = 1  zm = 8  zs = 2  f = 0  zc = 9  zm = 8  zs = 3  f = 0  zc = 9  zm = 8  zs = 0  f = 5  zc = 9  zm = 8  zs = 1  f = 5  zc = 1  zm = 8  zs = 2  f = 5  zc = 9  zm = 8  zs = 3  f = 5                               
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/agentsection/overview/overview-cracked-egg-btn.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/agentsection/overview/overview-my-earnings-btn.png
+96x59 pixels, 4x8 bits/pixel, RGB+alpha
+Input IDAT size = 5791 bytes
+Input file size = 5885 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0		IDAT size = 5791
+  zc = 9  zm = 8  zs = 1  f = 0  zc = 1  zm = 8  zs = 2  f = 0  zc = 9  zm = 8  zs = 3  f = 0  zc = 9  zm = 8  zs = 0  f = 5  zc = 9  zm = 8  zs = 1  f = 5  zc = 1  zm = 8  zs = 2  f = 5  zc = 9  zm = 8  zs = 3  f = 5                               
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/agentsection/overview/overview-my-earnings-btn.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/agentsection/profile-web-brown-bg.png
+760x438 pixels, 4x8 bits/pixel, RGB+alpha
+Input IDAT size = 14618 bytes
+Input file size = 14712 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0  zc = 9  zm = 8  zs = 1  f = 0  zc = 1  zm = 8  zs = 2  f = 0  zc = 9  zm = 8  zs = 3  f = 0  zc = 9  zm = 8  zs = 0  f = 5  zc = 9  zm = 8  zs = 1  f = 5		IDAT size = 14618
+  zc = 1  zm = 8  zs = 2  f = 5  zc = 9  zm = 8  zs = 3  f = 5                               
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/agentsection/profile-web-brown-bg.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/agentsection/profile-web-white-box.png
+213x219 pixels, 8 bits/pixel, 239 colors (238 transparent) in palette
+Input IDAT size = 873 bytes
+Input file size = 1946 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0		IDAT size = 952
+  zc = 9  zm = 8  zs = 1  f = 0  zc = 1  zm = 8  zs = 2  f = 0  zc = 9  zm = 8  zs = 3  f = 0  zc = 9  zm = 8  zs = 0  f = 5		IDAT size = 894
+  zc = 9  zm = 8  zs = 1  f = 5		IDAT size = 873
+  zc = 1  zm = 8  zs = 2  f = 5  zc = 9  zm = 8  zs = 3  f = 5                               
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/agentsection/profile-web-white-box.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/background/background.png
+1120x768 pixels, 8 bits/pixel, 171 colors in palette
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/big-social-tree.png
+310x251 pixels, 4x8 bits/pixel, RGB+alpha
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/blank.png
+10x10 pixels, 4x8 bits/pixel, RGB+alpha
+Reducing image to 1 bit/pixel, 1 color (1 transparent) in palette
+Input IDAT size = 26 bytes
+Input file size = 120 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0		IDAT size = 11
+  zc = 9  zm = 8  zs = 1  f = 0		IDAT size = 11
+  zc = 1  zm = 8  zs = 2  f = 0  zc = 9  zm = 8  zs = 3  f = 0		IDAT size = 10
+  zc = 9  zm = 8  zs = 0  f = 5  zc = 9  zm = 8  zs = 1  f = 5  zc = 1  zm = 8  zs = 2  f = 5  zc = 9  zm = 8  zs = 3  f = 5		IDAT size = 10
+
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/blank.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/buttons/16x16-ascending_sort.png
+16x16 pixels, 3x8 bits/pixel, RGB
+Reducing image to 8 bits/pixel, 147 colors in palette
+Input IDAT size = 684 bytes
+Input file size = 741 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0		IDAT size = 249
+  zc = 9  zm = 8  zs = 1  f = 0		IDAT size = 243
+  zc = 1  zm = 8  zs = 2  f = 0		IDAT size = 241
+  zc = 9  zm = 8  zs = 3  f = 0  zc = 9  zm = 8  zs = 0  f = 5  zc = 9  zm = 8  zs = 1  f = 5  zc = 1  zm = 8  zs = 2  f = 5  zc = 9  zm = 8  zs = 3  f = 5                               
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/buttons/16x16-ascending_sort.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/buttons/16x16-descending_sort.png
+16x16 pixels, 3x8 bits/pixel, RGB
+Reducing image to 8 bits/pixel, 150 colors in palette
+Input IDAT size = 698 bytes
+Input file size = 755 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0		IDAT size = 256
+  zc = 9  zm = 8  zs = 1  f = 0		IDAT size = 246
+  zc = 1  zm = 8  zs = 2  f = 0		IDAT size = 246
+  zc = 9  zm = 8  zs = 3  f = 0  zc = 9  zm = 8  zs = 0  f = 5  zc = 9  zm = 8  zs = 1  f = 5  zc = 1  zm = 8  zs = 2  f = 5  zc = 9  zm = 8  zs = 3  f = 5                               
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/buttons/16x16-descending_sort.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/buttons/back_bird_grey.png
+60x90 pixels, 4x8 bits/pixel, RGB+alpha
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/buttons/back_bird_red.png
+60x90 pixels, 4x8 bits/pixel, RGB+alpha
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/buttons/bird_nest.png
+158x44 pixels, 4x8 bits/pixel, RGB+alpha
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/buttons/birdWordBubble.png
+200x45 pixels, 4x8 bits/pixel, RGB+alpha
+Reducing image to 8 bits/pixel, 163 colors (162 transparent) in palette
+Input IDAT size = 1379 bytes
+Input file size = 1473 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0		IDAT size = 834
+  zc = 9  zm = 8  zs = 1  f = 0  zc = 1  zm = 8  zs = 2  f = 0  zc = 9  zm = 8  zs = 3  f = 0  zc = 9  zm = 8  zs = 0  f = 5		IDAT size = 734
+  zc = 9  zm = 8  zs = 1  f = 5		IDAT size = 714
+  zc = 1  zm = 8  zs = 2  f = 5  zc = 9  zm = 8  zs = 3  f = 5                               
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/buttons/birdWordBubble.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/buttons/birdWordBubbleRed.png
+200x45 pixels, 4x8 bits/pixel, RGB+alpha
+Reducing image to 8 bits/pixel, 205 colors (176 transparent) in palette
+Input IDAT size = 1564 bytes
+Input file size = 1658 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0		IDAT size = 970
+  zc = 9  zm = 8  zs = 1  f = 0  zc = 1  zm = 8  zs = 2  f = 0  zc = 9  zm = 8  zs = 3  f = 0  zc = 9  zm = 8  zs = 0  f = 5		IDAT size = 828
+  zc = 9  zm = 8  zs = 1  f = 5		IDAT size = 824
+  zc = 1  zm = 8  zs = 2  f = 5  zc = 9  zm = 8  zs = 3  f = 5		IDAT size = 813
+
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/buttons/birdWordBubbleRed.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/buttons/btn-big-close.png
+97x87 pixels, 8 bits/pixel, 233 colors (87 transparent) in palette
+Input IDAT size = 1884 bytes
+Input file size = 2788 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0		IDAT size = 2343
+  zc = 9  zm = 8  zs = 1  f = 0  zc = 1  zm = 8  zs = 2  f = 0  zc = 9  zm = 8  zs = 3  f = 0  zc = 9  zm = 8  zs = 0  f = 5		IDAT size = 1891
+  zc = 9  zm = 8  zs = 1  f = 5		IDAT size = 1884
+  zc = 1  zm = 8  zs = 2  f = 5  zc = 9  zm = 8  zs = 3  f = 5                               
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/buttons/btn-big-close.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/buttons/btn-close.png
+29x30 pixels, 8 bits/pixel, 216 colors (105 transparent) in palette
+Input IDAT size = 618 bytes
+Input file size = 1489 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0		IDAT size = 681
+  zc = 9  zm = 8  zs = 1  f = 0  zc = 1  zm = 8  zs = 2  f = 0  zc = 9  zm = 8  zs = 3  f = 0  zc = 9  zm = 8  zs = 0  f = 5		IDAT size = 624
+  zc = 9  zm = 8  zs = 1  f = 5		IDAT size = 618
+  zc = 1  zm = 8  zs = 2  f = 5  zc = 9  zm = 8  zs = 3  f = 5                               
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/buttons/btn-close.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/buttons/btn-min-close.png
+17x17 pixels, 4x8 bits/pixel, RGB+alpha
+Reducing image to 8 bits/pixel, 166 colors (80 transparent) in palette
+Input IDAT size = 667 bytes
+Input file size = 3440 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0		IDAT size = 280
+  zc = 9  zm = 8  zs = 1  f = 0  zc = 1  zm = 8  zs = 2  f = 0  zc = 9  zm = 8  zs = 3  f = 0  zc = 9  zm = 8  zs = 0  f = 5		IDAT size = 248
+  zc = 9  zm = 8  zs = 1  f = 5		IDAT size = 245
+  zc = 1  zm = 8  zs = 2  f = 5  zc = 9  zm = 8  zs = 3  f = 5		IDAT size = 242
+
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/buttons/btn-min-close.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/buttons/btn-min-more.png
+18x18 pixels, 4x8 bits/pixel, RGB+alpha
+Reducing image to 8 bits/pixel, 182 colors (88 transparent) in palette
+Input IDAT size = 749 bytes
+Input file size = 3522 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0		IDAT size = 315
+  zc = 9  zm = 8  zs = 1  f = 0  zc = 1  zm = 8  zs = 2  f = 0  zc = 9  zm = 8  zs = 3  f = 0  zc = 9  zm = 8  zs = 0  f = 5		IDAT size = 285
+  zc = 9  zm = 8  zs = 1  f = 5		IDAT size = 275
+  zc = 1  zm = 8  zs = 2  f = 5  zc = 9  zm = 8  zs = 3  f = 5		IDAT size = 275
+
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/buttons/btn-min-more.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/buttons/btn-next-rollover.png
+17x17 pixels, 4x8 bits/pixel, RGB+alpha
+Reducing image to 8 bits/pixel, 186 colors (90 transparent) in palette
+Input IDAT size = 865 bytes
+Input file size = 3638 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0		IDAT size = 317
+  zc = 9  zm = 8  zs = 1  f = 0		IDAT size = 317
+  zc = 1  zm = 8  zs = 2  f = 0		IDAT size = 317
+  zc = 9  zm = 8  zs = 3  f = 0		IDAT size = 317
+  zc = 9  zm = 8  zs = 0  f = 5		IDAT size = 252
+  zc = 9  zm = 8  zs = 1  f = 5		IDAT size = 247
+  zc = 1  zm = 8  zs = 2  f = 5		IDAT size = 247
+  zc = 9  zm = 8  zs = 3  f = 5		IDAT size = 247
+
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/buttons/btn-next-rollover.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/buttons/btn-next.png
+17x17 pixels, 4x8 bits/pixel, RGB+alpha
+Reducing image to 8 bits/pixel, 177 colors (80 transparent) in palette
+Input IDAT size = 752 bytes
+Input file size = 3525 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0		IDAT size = 305
+  zc = 9  zm = 8  zs = 1  f = 0  zc = 1  zm = 8  zs = 2  f = 0  zc = 9  zm = 8  zs = 3  f = 0  zc = 9  zm = 8  zs = 0  f = 5		IDAT size = 275
+  zc = 9  zm = 8  zs = 1  f = 5		IDAT size = 270
+  zc = 1  zm = 8  zs = 2  f = 5		IDAT size = 270
+  zc = 9  zm = 8  zs = 3  f = 5		IDAT size = 269
+
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/buttons/btn-next.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/buttons/btn-post-treat.png
+138x38 pixels, 4x8 bits/pixel, RGB+alpha
+Reducing image to 8 bits/pixel, 208 colors (181 transparent) in palette
+Input IDAT size = 1198 bytes
+Input file size = 3971 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0		IDAT size = 661
+  zc = 9  zm = 8  zs = 1  f = 0  zc = 1  zm = 8  zs = 2  f = 0  zc = 9  zm = 8  zs = 3  f = 0  zc = 9  zm = 8  zs = 0  f = 5		IDAT size = 542
+  zc = 9  zm = 8  zs = 1  f = 5		IDAT size = 540
+  zc = 1  zm = 8  zs = 2  f = 5  zc = 9  zm = 8  zs = 3  f = 5		IDAT size = 536
+
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/buttons/btn-post-treat.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/buttons/btn-prev-rollover.png
+17x17 pixels, 4x8 bits/pixel, RGB+alpha
+Reducing image to 8 bits/pixel, 188 colors (90 transparent) in palette
+Input IDAT size = 843 bytes
+Input file size = 3616 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0		IDAT size = 317
+  zc = 9  zm = 8  zs = 1  f = 0		IDAT size = 317
+  zc = 1  zm = 8  zs = 2  f = 0		IDAT size = 317
+  zc = 9  zm = 8  zs = 3  f = 0		IDAT size = 317
+  zc = 9  zm = 8  zs = 0  f = 5		IDAT size = 252
+  zc = 9  zm = 8  zs = 1  f = 5		IDAT size = 249
+  zc = 1  zm = 8  zs = 2  f = 5		IDAT size = 249
+  zc = 9  zm = 8  zs = 3  f = 5		IDAT size = 249
+
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/buttons/btn-prev-rollover.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/buttons/btn-prev.png
+17x17 pixels, 4x8 bits/pixel, RGB+alpha
+Reducing image to 8 bits/pixel, 174 colors (80 transparent) in palette
+Input IDAT size = 738 bytes
+Input file size = 3511 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0		IDAT size = 300
+  zc = 9  zm = 8  zs = 1  f = 0  zc = 1  zm = 8  zs = 2  f = 0  zc = 9  zm = 8  zs = 3  f = 0  zc = 9  zm = 8  zs = 0  f = 5		IDAT size = 267
+  zc = 9  zm = 8  zs = 1  f = 5		IDAT size = 264
+  zc = 1  zm = 8  zs = 2  f = 5		IDAT size = 264
+  zc = 9  zm = 8  zs = 3  f = 5		IDAT size = 263
+
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/buttons/btn-prev.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/buttons/btn-reports-download.png
+137x31 pixels, 4x8 bits/pixel, RGB+alpha
+Reducing image to 8 bits/pixel, 190 colors (185 transparent) in palette
+Input IDAT size = 1261 bytes
+Input file size = 1355 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0		IDAT size = 703
+  zc = 9  zm = 8  zs = 1  f = 0  zc = 1  zm = 8  zs = 2  f = 0  zc = 9  zm = 8  zs = 3  f = 0  zc = 9  zm = 8  zs = 0  f = 5		IDAT size = 619
+  zc = 9  zm = 8  zs = 1  f = 5		IDAT size = 611
+  zc = 1  zm = 8  zs = 2  f = 5  zc = 9  zm = 8  zs = 3  f = 5		IDAT size = 589
+
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/buttons/btn-reports-download.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/buttons/btn-reports-print.png
+89x31 pixels, 4x8 bits/pixel, RGB+alpha
+Reducing image to 8 bits/pixel, 195 colors (182 transparent) in palette
+Input IDAT size = 1164 bytes
+Input file size = 1258 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0		IDAT size = 703
+  zc = 9  zm = 8  zs = 1  f = 0  zc = 1  zm = 8  zs = 2  f = 0  zc = 9  zm = 8  zs = 3  f = 0  zc = 9  zm = 8  zs = 0  f = 5		IDAT size = 603
+  zc = 9  zm = 8  zs = 1  f = 5		IDAT size = 594
+  zc = 1  zm = 8  zs = 2  f = 5  zc = 9  zm = 8  zs = 3  f = 5		IDAT size = 580
+
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/buttons/btn-reports-print.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/buttons/btn-view-full-size.png
+25x24 pixels, 4 bits/pixel, 16 colors (16 transparent) in palette
+Input IDAT size = 163 bytes
+Input file size = 345 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0		IDAT size = 163
+  zc = 9  zm = 8  zs = 1  f = 0  zc = 1  zm = 8  zs = 2  f = 0  zc = 9  zm = 8  zs = 3  f = 0  zc = 9  zm = 8  zs = 0  f = 5  zc = 9  zm = 8  zs = 1  f = 5  zc = 1  zm = 8  zs = 2  f = 5  zc = 9  zm = 8  zs = 3  f = 5                               
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/buttons/btn-view-full-size.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/buttons/button_close.png
+55x17 pixels, 4x8 bits/pixel, RGB+alpha
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/buttons/button_close_rollover.png
+56x17 pixels, 4x8 bits/pixel, RGB+alpha
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/buttons/button_more.png
+59x18 pixels, 4x8 bits/pixel, RGB+alpha
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/buttons/button_more_rollover.png
+58x17 pixels, 4x8 bits/pixel, RGB+alpha
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/buttons/buy_button.png
+127x76 pixels, 4x8 bits/pixel, RGB+alpha
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/buttons/buy_button_brown.png
+132x80 pixels, 4x8 bits/pixel, RGB+alpha
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/buttons/buy_button_grey.png
+132x80 pixels, 4x8 bits/pixel, RGB+alpha
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/buttons/buy_button_red.png
+132x80 pixels, 4x8 bits/pixel, RGB+alpha
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/buttons/buy_button_tan.png
+132x80 pixels, 4x8 bits/pixel, RGB+alpha
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/buttons/category_adventure.png
+100x50 pixels, 4x8 bits/pixel, RGB+alpha
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/buttons/checkbox_off.png
+35x35 pixels, 2 bits/pixel, 3 colors (1 transparent) in palette
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/buttons/checkbox_on.png
+35x35 pixels, 8 bits/pixel, 59 colors (15 transparent) in palette
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/buttons/create-publisher-account-over.png
+185x215 pixels, 4x8 bits/pixel, RGB+alpha
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/buttons/create-publisher-account.png
+185x215 pixels, 4x8 bits/pixel, RGB+alpha
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/buttons/create-user-account-over.png
+185x215 pixels, 4x8 bits/pixel, RGB+alpha
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/buttons/create-user-account.png
+185x215 pixels, 4x8 bits/pixel, RGB+alpha
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/buttons/create-vendor-account-over.png
+185x215 pixels, 4x8 bits/pixel, RGB+alpha
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/buttons/create-vendor-account.png
+185x215 pixels, 4x8 bits/pixel, RGB+alpha
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/buttons/down_arrow.png
+30x46 pixels, 4x8 bits/pixel, RGB+alpha
+Reducing image to 8 bits/pixel, 178 colors (87 transparent) in palette
+Input IDAT size = 832 bytes
+Input file size = 3605 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0		IDAT size = 327
+  zc = 9  zm = 8  zs = 1  f = 0  zc = 1  zm = 8  zs = 2  f = 0  zc = 9  zm = 8  zs = 3  f = 0  zc = 9  zm = 8  zs = 0  f = 5		IDAT size = 327
+  zc = 9  zm = 8  zs = 1  f = 5		IDAT size = 325
+  zc = 1  zm = 8  zs = 2  f = 5  zc = 9  zm = 8  zs = 3  f = 5                               
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/buttons/down_arrow.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/buttons/down_arrow_button.png
+7x6 pixels, 4x8 bits/pixel, RGB+alpha
+Reducing image to 8 bits/pixel, 18 colors (17 transparent) in palette
+Input IDAT size = 135 bytes
+Input file size = 2908 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0		IDAT size = 44
+  zc = 9  zm = 8  zs = 1  f = 0		IDAT size = 42
+  zc = 1  zm = 8  zs = 2  f = 0		IDAT size = 42
+  zc = 9  zm = 8  zs = 3  f = 0  zc = 9  zm = 8  zs = 0  f = 5  zc = 9  zm = 8  zs = 1  f = 5  zc = 1  zm = 8  zs = 2  f = 5  zc = 9  zm = 8  zs = 3  f = 5                               
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/buttons/down_arrow_button.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/buttons/down_arrow_button_grey.png
+7x6 pixels, 4x8 bits/pixel, RGB+alpha
+Reducing image to 8 bits/pixel, 18 colors (17 transparent) in palette
+Input IDAT size = 122 bytes
+Input file size = 216 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0		IDAT size = 44
+  zc = 9  zm = 8  zs = 1  f = 0		IDAT size = 42
+  zc = 1  zm = 8  zs = 2  f = 0		IDAT size = 42
+  zc = 9  zm = 8  zs = 3  f = 0  zc = 9  zm = 8  zs = 0  f = 5  zc = 9  zm = 8  zs = 1  f = 5  zc = 1  zm = 8  zs = 2  f = 5  zc = 9  zm = 8  zs = 3  f = 5                               
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/buttons/down_arrow_button_grey.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/buttons/down_arrow_button_red.png
+7x6 pixels, 4x8 bits/pixel, RGB+alpha
+Reducing image to 4 bits/pixel, 13 colors (12 transparent) in palette
+Input IDAT size = 95 bytes
+Input file size = 189 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0		IDAT size = 34
+  zc = 9  zm = 8  zs = 1  f = 0  zc = 1  zm = 8  zs = 2  f = 0  zc = 9  zm = 8  zs = 3  f = 0  zc = 9  zm = 8  zs = 0  f = 5  zc = 9  zm = 8  zs = 1  f = 5  zc = 1  zm = 8  zs = 2  f = 5  zc = 9  zm = 8  zs = 3  f = 5                               
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/buttons/down_arrow_button_red.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/buttons/facebook-brown-share-btn.png
+36x36 pixels, 4x8 bits/pixel, RGB+alpha
+Input IDAT size = 2225 bytes
+Input file size = 2319 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0  zc = 9  zm = 8  zs = 1  f = 0  zc = 1  zm = 8  zs = 2  f = 0  zc = 9  zm = 8  zs = 3  f = 0  zc = 9  zm = 8  zs = 0  f = 5  zc = 9  zm = 8  zs = 1  f = 5		IDAT size = 2225
+  zc = 1  zm = 8  zs = 2  f = 5  zc = 9  zm = 8  zs = 3  f = 5                               
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/buttons/facebook-brown-share-btn.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/buttons/facebook-btn.png
+22x24 pixels, 2x8 bits/pixel, grayscale+alpha
+Input IDAT size = 647 bytes
+Input file size = 741 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0  zc = 9  zm = 8  zs = 1  f = 0  zc = 1  zm = 8  zs = 2  f = 0  zc = 9  zm = 8  zs = 3  f = 0  zc = 9  zm = 8  zs = 0  f = 5  zc = 9  zm = 8  zs = 1  f = 5  zc = 1  zm = 8  zs = 2  f = 5		IDAT size = 647
+  zc = 9  zm = 8  zs = 3  f = 5                               
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/buttons/facebook-btn.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/buttons/fbshare.png
+69x66 pixels, 3x8 bits/pixel, RGB
+Input IDAT size = 3896 bytes
+Input file size = 3990 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0  zc = 9  zm = 8  zs = 1  f = 0  zc = 1  zm = 8  zs = 2  f = 0  zc = 9  zm = 8  zs = 3  f = 0  zc = 9  zm = 8  zs = 0  f = 5  zc = 9  zm = 8  zs = 1  f = 5  zc = 1  zm = 8  zs = 2  f = 5  zc = 9  zm = 8  zs = 3  f = 5                               
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/buttons/fbshare.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/buttons/form_back.png
+40x30 pixels, 4x8 bits/pixel, RGB+alpha
+Reducing image to 8 bits/pixel, 174 colors (109 transparent) in palette
+Input IDAT size = 865 bytes
+Input file size = 959 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0		IDAT size = 411
+  zc = 9  zm = 8  zs = 1  f = 0  zc = 1  zm = 8  zs = 2  f = 0  zc = 9  zm = 8  zs = 3  f = 0  zc = 9  zm = 8  zs = 0  f = 5		IDAT size = 370
+  zc = 9  zm = 8  zs = 1  f = 5		IDAT size = 367
+  zc = 1  zm = 8  zs = 2  f = 5  zc = 9  zm = 8  zs = 3  f = 5		IDAT size = 366
+
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/buttons/form_back.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/buttons/form_back_disabled.png
+40x30 pixels, 4x8 bits/pixel, RGB+alpha
+Reducing image to 8 bits/pixel, 171 colors (109 transparent) in palette
+Input IDAT size = 871 bytes
+Input file size = 965 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0		IDAT size = 417
+  zc = 9  zm = 8  zs = 1  f = 0  zc = 1  zm = 8  zs = 2  f = 0  zc = 9  zm = 8  zs = 3  f = 0  zc = 9  zm = 8  zs = 0  f = 5		IDAT size = 374
+  zc = 9  zm = 8  zs = 1  f = 5		IDAT size = 370
+  zc = 1  zm = 8  zs = 2  f = 5  zc = 9  zm = 8  zs = 3  f = 5                               
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/buttons/form_back_disabled.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/buttons/form_back_over.png
+40x30 pixels, 4x8 bits/pixel, RGB+alpha
+Reducing image to 8 bits/pixel, 173 colors (109 transparent) in palette
+Input IDAT size = 895 bytes
+Input file size = 989 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0		IDAT size = 411
+  zc = 9  zm = 8  zs = 1  f = 0  zc = 1  zm = 8  zs = 2  f = 0  zc = 9  zm = 8  zs = 3  f = 0  zc = 9  zm = 8  zs = 0  f = 5		IDAT size = 366
+  zc = 9  zm = 8  zs = 1  f = 5		IDAT size = 363
+  zc = 1  zm = 8  zs = 2  f = 5  zc = 9  zm = 8  zs = 3  f = 5                               
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/buttons/form_back_over.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/buttons/form_next.png
+40x30 pixels, 4x8 bits/pixel, RGB+alpha
+Reducing image to 8 bits/pixel, 174 colors (109 transparent) in palette
+Input IDAT size = 862 bytes
+Input file size = 956 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0		IDAT size = 394
+  zc = 9  zm = 8  zs = 1  f = 0  zc = 1  zm = 8  zs = 2  f = 0  zc = 9  zm = 8  zs = 3  f = 0  zc = 9  zm = 8  zs = 0  f = 5		IDAT size = 354
+  zc = 9  zm = 8  zs = 1  f = 5		IDAT size = 352
+  zc = 1  zm = 8  zs = 2  f = 5  zc = 9  zm = 8  zs = 3  f = 5                               
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/buttons/form_next.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/buttons/form_next_disabled.png
+40x30 pixels, 4x8 bits/pixel, RGB+alpha
+Reducing image to 8 bits/pixel, 171 colors (109 transparent) in palette
+Input IDAT size = 881 bytes
+Input file size = 975 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0		IDAT size = 401
+  zc = 9  zm = 8  zs = 1  f = 0  zc = 1  zm = 8  zs = 2  f = 0  zc = 9  zm = 8  zs = 3  f = 0  zc = 9  zm = 8  zs = 0  f = 5		IDAT size = 368
+  zc = 9  zm = 8  zs = 1  f = 5		IDAT size = 363
+  zc = 1  zm = 8  zs = 2  f = 5  zc = 9  zm = 8  zs = 3  f = 5                               
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/buttons/form_next_disabled.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/buttons/form_next_over.png
+40x30 pixels, 4x8 bits/pixel, RGB+alpha
+Reducing image to 8 bits/pixel, 173 colors (109 transparent) in palette
+Input IDAT size = 860 bytes
+Input file size = 954 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0		IDAT size = 394
+  zc = 9  zm = 8  zs = 1  f = 0  zc = 1  zm = 8  zs = 2  f = 0  zc = 9  zm = 8  zs = 3  f = 0  zc = 9  zm = 8  zs = 0  f = 5		IDAT size = 361
+  zc = 9  zm = 8  zs = 1  f = 5		IDAT size = 355
+  zc = 1  zm = 8  zs = 2  f = 5  zc = 9  zm = 8  zs = 3  f = 5                               
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/buttons/form_next_over.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/buttons/header_button_small_red.png
+86x25 pixels, 4x8 bits/pixel, RGB+alpha
+Reducing image to 8 bits/pixel, 141 colors (122 transparent) in palette
+Input IDAT size = 704 bytes
+Input file size = 3477 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0		IDAT size = 346
+  zc = 9  zm = 8  zs = 1  f = 0  zc = 1  zm = 8  zs = 2  f = 0  zc = 9  zm = 8  zs = 3  f = 0  zc = 9  zm = 8  zs = 0  f = 5		IDAT size = 309
+  zc = 9  zm = 8  zs = 1  f = 5		IDAT size = 305
+  zc = 1  zm = 8  zs = 2  f = 5  zc = 9  zm = 8  zs = 3  f = 5		IDAT size = 300
+
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/buttons/header_button_small_red.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/buttons/header_button_small_white.png
+88x25 pixels, 4x8 bits/pixel, RGB+alpha
+Reducing image to 8 bits/pixel, 131 colors (125 transparent) in palette
+Input IDAT size = 645 bytes
+Input file size = 3418 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0		IDAT size = 303
+  zc = 9  zm = 8  zs = 1  f = 0  zc = 1  zm = 8  zs = 2  f = 0  zc = 9  zm = 8  zs = 3  f = 0  zc = 9  zm = 8  zs = 0  f = 5		IDAT size = 274
+  zc = 9  zm = 8  zs = 1  f = 5		IDAT size = 271
+  zc = 1  zm = 8  zs = 2  f = 5  zc = 9  zm = 8  zs = 3  f = 5		IDAT size = 265
+
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/buttons/header_button_small_white.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/buttons/icon-bird.png
+24x21 pixels, 4x8 bits/pixel, RGB+alpha
+Reducing image to 8 bits/pixel, 177 colors (160 transparent) in palette
+Input IDAT size = 997 bytes
+Input file size = 3770 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0		IDAT size = 355
+  zc = 9  zm = 8  zs = 1  f = 0  zc = 1  zm = 8  zs = 2  f = 0  zc = 9  zm = 8  zs = 3  f = 0  zc = 9  zm = 8  zs = 0  f = 5		IDAT size = 349
+  zc = 9  zm = 8  zs = 1  f = 5		IDAT size = 349
+  zc = 1  zm = 8  zs = 2  f = 5		IDAT size = 343
+  zc = 9  zm = 8  zs = 3  f = 5		IDAT size = 337
+
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/buttons/icon-bird.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/buttons/icon_agent.png
+104x139 pixels, 4x8 bits/pixel, RGB+alpha
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/buttons/icon_agent_over.png
+104x139 pixels, 4x8 bits/pixel, RGB+alpha
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/buttons/icon_member.png
+120x150 pixels, 4x8 bits/pixel, RGB+alpha
+Input IDAT size = 7672 bytes
+Input file size = 7766 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0  zc = 9  zm = 8  zs = 1  f = 0  zc = 1  zm = 8  zs = 2  f = 0  zc = 9  zm = 8  zs = 3  f = 0  zc = 9  zm = 8  zs = 0  f = 5  zc = 9  zm = 8  zs = 1  f = 5  zc = 1  zm = 8  zs = 2  f = 5  zc = 9  zm = 8  zs = 3  f = 5                               
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/buttons/icon_member.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/buttons/icon_member_over.png
+120x150 pixels, 4x8 bits/pixel, RGB+alpha
+Input IDAT size = 6921 bytes
+Input file size = 7015 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0  zc = 9  zm = 8  zs = 1  f = 0  zc = 1  zm = 8  zs = 2  f = 0  zc = 9  zm = 8  zs = 3  f = 0  zc = 9  zm = 8  zs = 0  f = 5  zc = 9  zm = 8  zs = 1  f = 5  zc = 1  zm = 8  zs = 2  f = 5  zc = 9  zm = 8  zs = 3  f = 5                               
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/buttons/icon_member_over.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/buttons/icon_publisher.png
+120x150 pixels, 4x8 bits/pixel, RGB+alpha
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/buttons/icon_publisher_over.png
+120x150 pixels, 4x8 bits/pixel, RGB+alpha
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/buttons/icon_vendor.png
+103x134 pixels, 4x8 bits/pixel, RGB+alpha
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/buttons/icon_vendor_over.png
+103x134 pixels, 4x8 bits/pixel, RGB+alpha
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/buttons/invite-AOL.png
+49x17 pixels, 8 bits/pixel, 147 colors (86 transparent) in palette
+Input IDAT size = 398 bytes
+Input file size = 1043 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0		IDAT size = 413
+  zc = 9  zm = 8  zs = 1  f = 0		IDAT size = 406
+  zc = 1  zm = 8  zs = 2  f = 0  zc = 9  zm = 8  zs = 3  f = 0		IDAT size = 398
+  zc = 9  zm = 8  zs = 0  f = 5  zc = 9  zm = 8  zs = 1  f = 5  zc = 1  zm = 8  zs = 2  f = 5  zc = 9  zm = 8  zs = 3  f = 5                               
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/buttons/invite-AOL.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/buttons/invite-gmail.png
+43x16 pixels, 4x8 bits/pixel, RGB+alpha
+Input IDAT size = 1573 bytes
+Input file size = 1667 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0  zc = 9  zm = 8  zs = 1  f = 0  zc = 1  zm = 8  zs = 2  f = 0  zc = 9  zm = 8  zs = 3  f = 0  zc = 9  zm = 8  zs = 0  f = 5  zc = 9  zm = 8  zs = 1  f = 5  zc = 1  zm = 8  zs = 2  f = 5  zc = 9  zm = 8  zs = 3  f = 5		IDAT size = 1573
+
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/buttons/invite-gmail.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/buttons/invite-other.png
+33x14 pixels, 8 bits/pixel, 17 colors (16 transparent) in palette
+Input IDAT size = 164 bytes
+Input file size = 349 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0		IDAT size = 168
+  zc = 9  zm = 8  zs = 1  f = 0		IDAT size = 164
+  zc = 1  zm = 8  zs = 2  f = 0  zc = 9  zm = 8  zs = 3  f = 0  zc = 9  zm = 8  zs = 0  f = 5  zc = 9  zm = 8  zs = 1  f = 5  zc = 1  zm = 8  zs = 2  f = 5  zc = 9  zm = 8  zs = 3  f = 5                               
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/buttons/invite-other.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/buttons/invite-outlook.png
+38x17 pixels, 4x8 bits/pixel, RGB+alpha
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/buttons/invite-windows.png
+23x24 pixels, 3x8 bits/pixel, RGB
+Input IDAT size = 1324 bytes
+Input file size = 1418 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0  zc = 9  zm = 8  zs = 1  f = 0  zc = 1  zm = 8  zs = 2  f = 0  zc = 9  zm = 8  zs = 3  f = 0  zc = 9  zm = 8  zs = 0  f = 5		IDAT size = 1324
+  zc = 9  zm = 8  zs = 1  f = 5		IDAT size = 1324
+  zc = 1  zm = 8  zs = 2  f = 5  zc = 9  zm = 8  zs = 3  f = 5                               
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/buttons/invite-windows.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/buttons/invite-yahoo.png
+55x11 pixels, 8 bits/pixel, 17 colors (16 transparent) in palette
+Input IDAT size = 239 bytes
+Input file size = 424 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0		IDAT size = 257
+  zc = 9  zm = 8  zs = 1  f = 0		IDAT size = 247
+  zc = 1  zm = 8  zs = 2  f = 0		IDAT size = 245
+  zc = 9  zm = 8  zs = 3  f = 0		IDAT size = 239
+  zc = 9  zm = 8  zs = 0  f = 5  zc = 9  zm = 8  zs = 1  f = 5  zc = 1  zm = 8  zs = 2  f = 5  zc = 9  zm = 8  zs = 3  f = 5                               
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/buttons/invite-yahoo.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/buttons/left_arrow.png
+46x30 pixels, 4x8 bits/pixel, RGB+alpha
+Reducing image to 8 bits/pixel, 178 colors (87 transparent) in palette
+Input IDAT size = 847 bytes
+Input file size = 3620 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0		IDAT size = 360
+  zc = 9  zm = 8  zs = 1  f = 0  zc = 1  zm = 8  zs = 2  f = 0  zc = 9  zm = 8  zs = 3  f = 0  zc = 9  zm = 8  zs = 0  f = 5		IDAT size = 333
+  zc = 9  zm = 8  zs = 1  f = 5		IDAT size = 329
+  zc = 1  zm = 8  zs = 2  f = 5  zc = 9  zm = 8  zs = 3  f = 5                               
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/buttons/left_arrow.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/buttons/my-account-payment-form-highlight-btn.png
+197x52 pixels, 4x8 bits/pixel, RGB+alpha
+Reducing image to 8 bits/pixel, 200 colors (190 transparent) in palette
+Input IDAT size = 1667 bytes
+Input file size = 1761 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0		IDAT size = 1012
+  zc = 9  zm = 8  zs = 1  f = 0  zc = 1  zm = 8  zs = 2  f = 0  zc = 9  zm = 8  zs = 3  f = 0  zc = 9  zm = 8  zs = 0  f = 5		IDAT size = 915
+  zc = 9  zm = 8  zs = 1  f = 5		IDAT size = 897
+  zc = 1  zm = 8  zs = 2  f = 5  zc = 9  zm = 8  zs = 3  f = 5		IDAT size = 883
+
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/buttons/my-account-payment-form-highlight-btn.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/buttons/next_bird_grey.png
+60x90 pixels, 4x8 bits/pixel, RGB+alpha
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/buttons/next_bird_red.png
+60x90 pixels, 4x8 bits/pixel, RGB+alpha
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/buttons/next_button.png
+51x71 pixels, 4x8 bits/pixel, RGB+alpha
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/buttons/overview-brown-highlight-btn.png
+200x81 pixels, 8 bits/pixel, 189 colors (187 transparent) in palette
+Input IDAT size = 1081 bytes
+Input file size = 1953 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0		IDAT size = 1176
+  zc = 9  zm = 8  zs = 1  f = 0  zc = 1  zm = 8  zs = 2  f = 0  zc = 9  zm = 8  zs = 3  f = 0  zc = 9  zm = 8  zs = 0  f = 5		IDAT size = 1091
+  zc = 9  zm = 8  zs = 1  f = 5		IDAT size = 1081
+  zc = 1  zm = 8  zs = 2  f = 5  zc = 9  zm = 8  zs = 3  f = 5                               
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/buttons/overview-brown-highlight-btn.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/buttons/prev_button.png
+47x78 pixels, 4x8 bits/pixel, RGB+alpha
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/buttons/refresh.png
+32x32 pixels, 4x8 bits/pixel, RGB+alpha
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/buttons/register_signin_button_grey.png
+91x31 pixels, 4x8 bits/pixel, RGB+alpha
+Reducing image to 8 bits/pixel, 153 colors (134 transparent) in palette
+Input IDAT size = 980 bytes
+Input file size = 1074 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0		IDAT size = 612
+  zc = 9  zm = 8  zs = 1  f = 0  zc = 1  zm = 8  zs = 2  f = 0  zc = 9  zm = 8  zs = 3  f = 0  zc = 9  zm = 8  zs = 0  f = 5		IDAT size = 501
+  zc = 9  zm = 8  zs = 1  f = 5		IDAT size = 495
+  zc = 1  zm = 8  zs = 2  f = 5  zc = 9  zm = 8  zs = 3  f = 5		IDAT size = 475
+
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/buttons/register_signin_button_grey.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/buttons/register_signin_button_red.png
+91x31 pixels, 4x8 bits/pixel, RGB+alpha
+Reducing image to 8 bits/pixel, 153 colors (134 transparent) in palette
+Input IDAT size = 980 bytes
+Input file size = 1074 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0		IDAT size = 612
+  zc = 9  zm = 8  zs = 1  f = 0  zc = 1  zm = 8  zs = 2  f = 0  zc = 9  zm = 8  zs = 3  f = 0  zc = 9  zm = 8  zs = 0  f = 5		IDAT size = 501
+  zc = 9  zm = 8  zs = 1  f = 5		IDAT size = 495
+  zc = 1  zm = 8  zs = 2  f = 5  zc = 9  zm = 8  zs = 3  f = 5		IDAT size = 475
+
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/buttons/register_signin_button_red.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/buttons/register_signin_button_white.png
+91x31 pixels, 4x8 bits/pixel, RGB+alpha
+Reducing image to 8 bits/pixel, 139 colors (138 transparent) in palette
+Input IDAT size = 838 bytes
+Input file size = 932 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0		IDAT size = 519
+  zc = 9  zm = 8  zs = 1  f = 0  zc = 1  zm = 8  zs = 2  f = 0  zc = 9  zm = 8  zs = 3  f = 0  zc = 9  zm = 8  zs = 0  f = 5		IDAT size = 421
+  zc = 9  zm = 8  zs = 1  f = 5  zc = 1  zm = 8  zs = 2  f = 5  zc = 9  zm = 8  zs = 3  f = 5                               
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/buttons/register_signin_button_white.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/buttons/retweet.png
+110x25 pixels, 4x8 bits/pixel, RGB+alpha
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/buttons/right_arrow.png
+46x30 pixels, 4x8 bits/pixel, RGB+alpha
+Reducing image to 8 bits/pixel, 178 colors (87 transparent) in palette
+Input IDAT size = 849 bytes
+Input file size = 3622 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0		IDAT size = 353
+  zc = 9  zm = 8  zs = 1  f = 0  zc = 1  zm = 8  zs = 2  f = 0  zc = 9  zm = 8  zs = 3  f = 0  zc = 9  zm = 8  zs = 0  f = 5		IDAT size = 327
+  zc = 9  zm = 8  zs = 1  f = 5		IDAT size = 323
+  zc = 1  zm = 8  zs = 2  f = 5  zc = 9  zm = 8  zs = 3  f = 5                               
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/buttons/right_arrow.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/buttons/side_panel_brown.png
+195x70 pixels, 8 bits/pixel, 186 colors (178 transparent) in palette
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/buttons/side_panel_red.png
+195x70 pixels, 8 bits/pixel, 191 colors (180 transparent) in palette
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/buttons/side_panel_white.png
+195x70 pixels, 8 bits/pixel, 164 colors (163 transparent) in palette
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/buttons/small_button_grey.png
+125x35 pixels, 4x8 bits/pixel, RGB+alpha
+Reducing image to 8 bits/pixel, 161 colors (153 transparent) in palette
+Input IDAT size = 1065 bytes
+Input file size = 3838 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0		IDAT size = 563
+  zc = 9  zm = 8  zs = 1  f = 0  zc = 1  zm = 8  zs = 2  f = 0  zc = 9  zm = 8  zs = 3  f = 0  zc = 9  zm = 8  zs = 0  f = 5		IDAT size = 527
+  zc = 9  zm = 8  zs = 1  f = 5		IDAT size = 501
+  zc = 1  zm = 8  zs = 2  f = 5  zc = 9  zm = 8  zs = 3  f = 5		IDAT size = 490
+
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/buttons/small_button_grey.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/buttons/small_button_red.png
+125x35 pixels, 4x8 bits/pixel, RGB+alpha
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/buttons/small_button_tan.png
+125x35 pixels, 4x8 bits/pixel, RGB+alpha
+Input IDAT size = 1491 bytes
+Input file size = 1585 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0  zc = 9  zm = 8  zs = 1  f = 0  zc = 1  zm = 8  zs = 2  f = 0  zc = 9  zm = 8  zs = 3  f = 0  zc = 9  zm = 8  zs = 0  f = 5  zc = 9  zm = 8  zs = 1  f = 5  zc = 1  zm = 8  zs = 2  f = 5  zc = 9  zm = 8  zs = 3  f = 5                               
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/buttons/small_button_tan.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/buttons/small_button_white.png
+125x35 pixels, 4x8 bits/pixel, RGB+alpha
+Input IDAT size = 1544 bytes
+Input file size = 1638 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0  zc = 9  zm = 8  zs = 1  f = 0  zc = 1  zm = 8  zs = 2  f = 0  zc = 9  zm = 8  zs = 3  f = 0  zc = 9  zm = 8  zs = 0  f = 5  zc = 9  zm = 8  zs = 1  f = 5  zc = 1  zm = 8  zs = 2  f = 5  zc = 9  zm = 8  zs = 3  f = 5                               
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/buttons/small_button_white.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/buttons/start_topic_button.png
+120x30 pixels, 8 bits/pixel, 242 colors (163 transparent) in palette, interlaced
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/buttons/tab_button_gray.png
+156x38 pixels, 4x8 bits/pixel, RGB+alpha
+Reducing image to 8 bits/pixel, 217 colors (208 transparent) in palette
+Input IDAT size = 1254 bytes
+Input file size = 4027 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0		IDAT size = 687
+  zc = 9  zm = 8  zs = 1  f = 0  zc = 1  zm = 8  zs = 2  f = 0  zc = 9  zm = 8  zs = 3  f = 0  zc = 9  zm = 8  zs = 0  f = 5		IDAT size = 587
+  zc = 9  zm = 8  zs = 1  f = 5		IDAT size = 578
+  zc = 1  zm = 8  zs = 2  f = 5  zc = 9  zm = 8  zs = 3  f = 5		IDAT size = 560
+
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/buttons/tab_button_gray.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/buttons/tab_button_grey.png
+160x45 pixels, 8 bits/pixel, 175 colors (168 transparent) in palette
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/buttons/tab_button_red.png
+160x45 pixels, 4x8 bits/pixel, RGB+alpha
+Reducing image to 8 bits/pixel, 205 colors (176 transparent) in palette
+Input IDAT size = 1482 bytes
+Input file size = 1576 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0		IDAT size = 923
+  zc = 9  zm = 8  zs = 1  f = 0  zc = 1  zm = 8  zs = 2  f = 0  zc = 9  zm = 8  zs = 3  f = 0  zc = 9  zm = 8  zs = 0  f = 5		IDAT size = 775
+  zc = 9  zm = 8  zs = 1  f = 5  zc = 1  zm = 8  zs = 2  f = 5  zc = 9  zm = 8  zs = 3  f = 5		IDAT size = 753
+
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/buttons/tab_button_red.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/buttons/tab_button_tan.png
+160x45 pixels, 4x8 bits/pixel, RGB+alpha
+Reducing image to 8 bits/pixel, 181 colors (170 transparent) in palette
+Input IDAT size = 1401 bytes
+Input file size = 1495 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0		IDAT size = 846
+  zc = 9  zm = 8  zs = 1  f = 0  zc = 1  zm = 8  zs = 2  f = 0  zc = 9  zm = 8  zs = 3  f = 0  zc = 9  zm = 8  zs = 0  f = 5		IDAT size = 715
+  zc = 9  zm = 8  zs = 1  f = 5		IDAT size = 714
+  zc = 1  zm = 8  zs = 2  f = 5  zc = 9  zm = 8  zs = 3  f = 5		IDAT size = 700
+
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/buttons/tab_button_tan.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/buttons/tab_button_white.png
+160x45 pixels, 4x8 bits/pixel, RGB+alpha
+Reducing image to 8 bits/pixel, 160 colors (159 transparent) in palette
+Input IDAT size = 1296 bytes
+Input file size = 1390 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0		IDAT size = 800
+  zc = 9  zm = 8  zs = 1  f = 0  zc = 1  zm = 8  zs = 2  f = 0  zc = 9  zm = 8  zs = 3  f = 0  zc = 9  zm = 8  zs = 0  f = 5		IDAT size = 691
+  zc = 9  zm = 8  zs = 1  f = 5		IDAT size = 678
+  zc = 1  zm = 8  zs = 2  f = 5  zc = 9  zm = 8  zs = 3  f = 5                               
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/buttons/tab_button_white.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/buttons/twitter-brown-share-btn.png
+36x36 pixels, 4x8 bits/pixel, RGB+alpha
+Input IDAT size = 2788 bytes
+Input file size = 2882 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0  zc = 9  zm = 8  zs = 1  f = 0  zc = 1  zm = 8  zs = 2  f = 0  zc = 9  zm = 8  zs = 3  f = 0  zc = 9  zm = 8  zs = 0  f = 5  zc = 9  zm = 8  zs = 1  f = 5		IDAT size = 2788
+  zc = 1  zm = 8  zs = 2  f = 5  zc = 9  zm = 8  zs = 3  f = 5                               
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/buttons/twitter-brown-share-btn.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/buttons/up_arrow.png
+30x46 pixels, 4x8 bits/pixel, RGB+alpha
+Reducing image to 8 bits/pixel, 178 colors (87 transparent) in palette
+Input IDAT size = 807 bytes
+Input file size = 3580 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0		IDAT size = 317
+  zc = 9  zm = 8  zs = 1  f = 0  zc = 1  zm = 8  zs = 2  f = 0  zc = 9  zm = 8  zs = 3  f = 0  zc = 9  zm = 8  zs = 0  f = 5		IDAT size = 308
+  zc = 9  zm = 8  zs = 1  f = 5		IDAT size = 300
+  zc = 1  zm = 8  zs = 2  f = 5  zc = 9  zm = 8  zs = 3  f = 5                               
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/buttons/up_arrow.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/category/cart_icon.png
+209x191 pixels, 4x8 bits/pixel, RGB+alpha
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/category/category_adventure.png
+100x50 pixels, 4x8 bits/pixel, RGB+alpha
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/category/category_adventure_menu.png
+40x30 pixels, 4x8 bits/pixel, RGB+alpha
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/category/category_beauty.png
+100x50 pixels, 4x8 bits/pixel, RGB+alpha
+Reducing image to 8 bits/pixel, 219 colors (163 transparent) in palette
+Input IDAT size = 1683 bytes
+Input file size = 4456 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0		IDAT size = 992
+  zc = 9  zm = 8  zs = 1  f = 0  zc = 1  zm = 8  zs = 2  f = 0  zc = 9  zm = 8  zs = 3  f = 0  zc = 9  zm = 8  zs = 0  f = 5		IDAT size = 928
+  zc = 9  zm = 8  zs = 1  f = 5		IDAT size = 906
+  zc = 1  zm = 8  zs = 2  f = 5  zc = 9  zm = 8  zs = 3  f = 5                               
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/category/category_beauty.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/category/category_beauty_menu.png
+49x30 pixels, 4x8 bits/pixel, RGB+alpha
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/category/category_events.png
+100x50 pixels, 8 bits/pixel, 195 colors (109 transparent) in palette
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/category/category_events_menu.png
+40x30 pixels, 4x8 bits/pixel, RGB+alpha
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/category/category_food.png
+100x50 pixels, 4x8 bits/pixel, RGB+alpha
+Reducing image to 8 bits/pixel, 233 colors (216 transparent) in palette
+Input IDAT size = 1875 bytes
+Input file size = 4648 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0		IDAT size = 1183
+  zc = 9  zm = 8  zs = 1  f = 0  zc = 1  zm = 8  zs = 2  f = 0  zc = 9  zm = 8  zs = 3  f = 0  zc = 9  zm = 8  zs = 0  f = 5		IDAT size = 1077
+  zc = 9  zm = 8  zs = 1  f = 5		IDAT size = 1043
+  zc = 1  zm = 8  zs = 2  f = 5  zc = 9  zm = 8  zs = 3  f = 5		IDAT size = 1041
+
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/category/category_food.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/category/category_food_menu.png
+30x30 pixels, 4x8 bits/pixel, RGB+alpha
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/category/category_retail.png
+100x50 pixels, 4x8 bits/pixel, RGB+alpha
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/category/category_retail_menu.png
+35x30 pixels, 4x8 bits/pixel, RGB+alpha
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/category/entertainment.png
+44x46 pixels, 4x8 bits/pixel, RGB+alpha
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/category/entertainment_old.png
+34x44 pixels, 4x8 bits/pixel, RGB+alpha
+Reducing image to 8 bits/pixel, 225 colors (176 transparent) in palette
+Input IDAT size = 1512 bytes
+Input file size = 1606 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0		IDAT size = 713
+  zc = 9  zm = 8  zs = 1  f = 0  zc = 1  zm = 8  zs = 2  f = 0  zc = 9  zm = 8  zs = 3  f = 0  zc = 9  zm = 8  zs = 0  f = 5		IDAT size = 686
+  zc = 9  zm = 8  zs = 1  f = 5  zc = 1  zm = 8  zs = 2  f = 5  zc = 9  zm = 8  zs = 3  f = 5                               
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/category/entertainment_old.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/category/food.png
+38x48 pixels, 4x8 bits/pixel, RGB+alpha
+Reducing image to 8 bits/pixel, 232 colors (215 transparent) in palette
+Input IDAT size = 1669 bytes
+Input file size = 1763 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0		IDAT size = 1037
+  zc = 9  zm = 8  zs = 1  f = 0  zc = 1  zm = 8  zs = 2  f = 0  zc = 9  zm = 8  zs = 3  f = 0  zc = 9  zm = 8  zs = 0  f = 5		IDAT size = 893
+  zc = 9  zm = 8  zs = 1  f = 5		IDAT size = 876
+  zc = 1  zm = 8  zs = 2  f = 5		IDAT size = 845
+  zc = 9  zm = 8  zs = 3  f = 5                               
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/category/food.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/category/health-beauty.png
+52x37 pixels, 4x8 bits/pixel, RGB+alpha
+Reducing image to 8 bits/pixel, 217 colors (161 transparent) in palette
+Input IDAT size = 1475 bytes
+Input file size = 1569 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0		IDAT size = 817
+  zc = 9  zm = 8  zs = 1  f = 0  zc = 1  zm = 8  zs = 2  f = 0  zc = 9  zm = 8  zs = 3  f = 0  zc = 9  zm = 8  zs = 0  f = 5		IDAT size = 764
+  zc = 9  zm = 8  zs = 1  f = 5		IDAT size = 750
+  zc = 1  zm = 8  zs = 2  f = 5  zc = 9  zm = 8  zs = 3  f = 5		IDAT size = 749
+
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/category/health-beauty.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/category/hotels-resorts.png
+47x39 pixels, 8 bits/pixel, 155 colors (97 transparent) in palette
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/category/retailer.png
+55x37 pixels, 4x8 bits/pixel, RGB+alpha
+Reducing image to 8 bits/pixel, 194 colors (108 transparent) in palette
+Input IDAT size = 1231 bytes
+Input file size = 1325 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0		IDAT size = 589
+  zc = 9  zm = 8  zs = 1  f = 0  zc = 1  zm = 8  zs = 2  f = 0  zc = 9  zm = 8  zs = 3  f = 0  zc = 9  zm = 8  zs = 0  f = 5		IDAT size = 570
+  zc = 9  zm = 8  zs = 1  f = 5		IDAT size = 566
+  zc = 1  zm = 8  zs = 2  f = 5  zc = 9  zm = 8  zs = 3  f = 5		IDAT size = 562
+
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/category/retailer.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/content/about-us-brown-sign.png
+275x303 pixels, 4x8 bits/pixel, RGB+alpha
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/content/arrow-from.png
+133x138 pixels, 4x8 bits/pixel, RGB+alpha
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/content/bio/scottreal.png
+193x260 pixels, 3x8 bits/pixel, RGB
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/content/bluebird.png
+40x41 pixels, 8 bits/pixel, 53 colors (35 transparent) in palette
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/content/box-stroke.png
+20x20 pixels, 1 bit/pixel, 2 colors (1 transparent) in palette
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/content/brown-footer.png
+45x20 pixels, 4 bits/pixel, 13 colors (1 transparent) in palette
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/content/how-it-works-description.png
+672x228 pixels, 4x8 bits/pixel, RGB+alpha
+Input IDAT size = 2989 bytes
+Input file size = 3083 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0  zc = 9  zm = 8  zs = 1  f = 0  zc = 1  zm = 8  zs = 2  f = 0  zc = 9  zm = 8  zs = 3  f = 0  zc = 9  zm = 8  zs = 0  f = 5  zc = 9  zm = 8  zs = 1  f = 5		IDAT size = 2989
+  zc = 1  zm = 8  zs = 2  f = 5  zc = 9  zm = 8  zs = 3  f = 5                               
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/content/how-it-works-description.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/content/how-it-works-stepover.png
+197x169 pixels, 8 bits/pixel, 160 colors (145 transparent) in palette
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/content/how-it-works-stepunder.png
+197x169 pixels, 8 bits/pixel, 18 colors (17 transparent) in palette
+Input IDAT size = 218 bytes
+Input file size = 407 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0		IDAT size = 218
+  zc = 9  zm = 8  zs = 1  f = 0		IDAT size = 218
+  zc = 1  zm = 8  zs = 2  f = 0  zc = 9  zm = 8  zs = 3  f = 0  zc = 9  zm = 8  zs = 0  f = 5  zc = 9  zm = 8  zs = 1  f = 5  zc = 1  zm = 8  zs = 2  f = 5  zc = 9  zm = 8  zs = 3  f = 5                               
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/content/how-it-works-stepunder.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/content/tree-stretched.png
+383x340 pixels, 4x8 bits/pixel, RGB+alpha
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/content/worm.png
+106x131 pixels, 4x8 bits/pixel, RGB+alpha
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/discuss/btn-start-topic.png
+120x30 pixels, 8 bits/pixel, 242 colors (163 transparent) in palette
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/discuss/discuss-birds.png
+153x41 pixels, 8 bits/pixel, 199 colors (99 transparent) in palette
+Input IDAT size = 1464 bytes
+Input file size = 2278 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0		IDAT size = 1464
+  zc = 9  zm = 8  zs = 1  f = 0  zc = 1  zm = 8  zs = 2  f = 0  zc = 9  zm = 8  zs = 3  f = 0  zc = 9  zm = 8  zs = 0  f = 5  zc = 9  zm = 8  zs = 1  f = 5  zc = 1  zm = 8  zs = 2  f = 5  zc = 9  zm = 8  zs = 3  f = 5                               
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/discuss/discuss-birds.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/footer/icons/becomeVendor.png
+225x80 pixels, 4x8 bits/pixel, RGB+alpha
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/footer/icons/daily_candy_icon.png
+105x27 pixels, 4x8 bits/pixel, RGB+alpha
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/footer/icons/email_icon.png
+25x25 pixels, 8 bits/pixel, 159 colors (50 transparent) in palette
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/footer/icons/facebook_icon.png
+25x25 pixels, 4x8 bits/pixel, RGB+alpha
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/footer/icons/images-1.png
+25x25 pixels, 8 bits/pixel, 123 colors (56 transparent) in palette
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/footer/icons/nbc_logo.png
+69x41 pixels, 4x8 bits/pixel, RGB+alpha
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/footer/icons/rss_icon.png
+25x25 pixels, 4x8 bits/pixel, RGB+alpha
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/footer/icons/smallSocialTree.png
+225x80 pixels, 4x8 bits/pixel, RGB+alpha
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/footer/icons/socialTree.png
+225x80 pixels, 4x8 bits/pixel, RGB+alpha
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/footer/icons/twitter_icon.png
+25x25 pixels, 4x8 bits/pixel, RGB+alpha
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/global/accordian-header.png
+660x35 pixels, 1 bit/pixel, 1 color (1 transparent) in palette
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/global/btn-1.png
+39x39 pixels, 4x8 bits/pixel, RGB+alpha
+Reducing image to 8 bits/pixel, 242 colors (143 transparent) in palette
+Input IDAT size = 1489 bytes
+Input file size = 1583 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0		IDAT size = 749
+  zc = 9  zm = 8  zs = 1  f = 0  zc = 1  zm = 8  zs = 2  f = 0  zc = 9  zm = 8  zs = 3  f = 0  zc = 9  zm = 8  zs = 0  f = 5		IDAT size = 721
+  zc = 9  zm = 8  zs = 1  f = 5		IDAT size = 721
+  zc = 1  zm = 8  zs = 2  f = 5  zc = 9  zm = 8  zs = 3  f = 5                               
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/global/btn-1.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/global/btn-2.png
+39x39 pixels, 8 bits/pixel, 235 colors (130 transparent) in palette
+Input IDAT size = 761 bytes
+Input file size = 1714 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0		IDAT size = 798
+  zc = 9  zm = 8  zs = 1  f = 0  zc = 1  zm = 8  zs = 2  f = 0  zc = 9  zm = 8  zs = 3  f = 0  zc = 9  zm = 8  zs = 0  f = 5		IDAT size = 761
+  zc = 9  zm = 8  zs = 1  f = 5  zc = 1  zm = 8  zs = 2  f = 5  zc = 9  zm = 8  zs = 3  f = 5                               
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/global/btn-2.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/global/btn-3.png
+39x39 pixels, 8 bits/pixel, 235 colors (130 transparent) in palette
+Input IDAT size = 802 bytes
+Input file size = 1755 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0		IDAT size = 866
+  zc = 9  zm = 8  zs = 1  f = 0  zc = 1  zm = 8  zs = 2  f = 0  zc = 9  zm = 8  zs = 3  f = 0  zc = 9  zm = 8  zs = 0  f = 5		IDAT size = 807
+  zc = 9  zm = 8  zs = 1  f = 5		IDAT size = 802
+  zc = 1  zm = 8  zs = 2  f = 5  zc = 9  zm = 8  zs = 3  f = 5                               
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/global/btn-3.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/global/btn-4.png
+39x39 pixels, 8 bits/pixel, 234 colors (130 transparent) in palette
+Input IDAT size = 747 bytes
+Input file size = 1697 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0		IDAT size = 774
+  zc = 9  zm = 8  zs = 1  f = 0  zc = 1  zm = 8  zs = 2  f = 0  zc = 9  zm = 8  zs = 3  f = 0  zc = 9  zm = 8  zs = 0  f = 5		IDAT size = 747
+  zc = 9  zm = 8  zs = 1  f = 5  zc = 1  zm = 8  zs = 2  f = 5  zc = 9  zm = 8  zs = 3  f = 5                               
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/global/btn-4.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/global/btn-5.png
+39x39 pixels, 8 bits/pixel, 235 colors (130 transparent) in palette
+Input IDAT size = 777 bytes
+Input file size = 1730 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0		IDAT size = 827
+  zc = 9  zm = 8  zs = 1  f = 0  zc = 1  zm = 8  zs = 2  f = 0  zc = 9  zm = 8  zs = 3  f = 0  zc = 9  zm = 8  zs = 0  f = 5		IDAT size = 777
+  zc = 9  zm = 8  zs = 1  f = 5  zc = 1  zm = 8  zs = 2  f = 5  zc = 9  zm = 8  zs = 3  f = 5                               
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/global/btn-5.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/global/btn-6.png
+39x39 pixels, 8 bits/pixel, 235 colors (130 transparent) in palette
+Input IDAT size = 795 bytes
+Input file size = 1748 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0		IDAT size = 828
+  zc = 9  zm = 8  zs = 1  f = 0  zc = 1  zm = 8  zs = 2  f = 0  zc = 9  zm = 8  zs = 3  f = 0  zc = 9  zm = 8  zs = 0  f = 5		IDAT size = 803
+  zc = 9  zm = 8  zs = 1  f = 5		IDAT size = 795
+  zc = 1  zm = 8  zs = 2  f = 5  zc = 9  zm = 8  zs = 3  f = 5                               
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/global/btn-6.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/global/btn-next-incomplete4.png
+34x22 pixels, 3x8 bits/pixel, RGB
+Reducing image to 8 bits/pixel, 56 colors in palette
+Input IDAT size = 323 bytes
+Input file size = 430 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0		IDAT size = 146
+  zc = 9  zm = 8  zs = 1  f = 0		IDAT size = 143
+  zc = 1  zm = 8  zs = 2  f = 0  zc = 9  zm = 8  zs = 3  f = 0  zc = 9  zm = 8  zs = 0  f = 5  zc = 9  zm = 8  zs = 1  f = 5  zc = 1  zm = 8  zs = 2  f = 5  zc = 9  zm = 8  zs = 3  f = 5                               
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/global/btn-next-incomplete4.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/global/calendar.png
+30x30 pixels, 4x8 bits/pixel, RGB+alpha
+Reducing image to 8 bits/pixel, 151 colors (70 transparent) in palette
+Input IDAT size = 875 bytes
+Input file size = 969 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0		IDAT size = 445
+  zc = 9  zm = 8  zs = 1  f = 0  zc = 1  zm = 8  zs = 2  f = 0  zc = 9  zm = 8  zs = 3  f = 0  zc = 9  zm = 8  zs = 0  f = 5		IDAT size = 399
+  zc = 9  zm = 8  zs = 1  f = 5		IDAT size = 390
+  zc = 1  zm = 8  zs = 2  f = 5  zc = 9  zm = 8  zs = 3  f = 5                               
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/global/calendar.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/global/check-mark.png
+22x22 pixels, 4x8 bits/pixel, RGB+alpha
+Reducing image to 8 bits/pixel, 52 colors (51 transparent) in palette
+Input IDAT size = 359 bytes
+Input file size = 453 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0		IDAT size = 179
+  zc = 9  zm = 8  zs = 1  f = 0  zc = 1  zm = 8  zs = 2  f = 0  zc = 9  zm = 8  zs = 3  f = 0  zc = 9  zm = 8  zs = 0  f = 5  zc = 9  zm = 8  zs = 1  f = 5  zc = 1  zm = 8  zs = 2  f = 5  zc = 9  zm = 8  zs = 3  f = 5                               
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/global/check-mark.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/global/checkbox_off.png
+35x35 pixels, 2 bits/pixel, 3 colors (1 transparent) in palette
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/global/checkbox_on.png
+35x35 pixels, 8 bits/pixel, 59 colors (15 transparent) in palette
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/global/combobox.png
+290x38 pixels, 4x8 bits/pixel, RGB+alpha
+Reducing image to 8 bits/pixel, 248 colors (136 transparent) in palette
+Input IDAT size = 1386 bytes
+Input file size = 1480 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0		IDAT size = 850
+  zc = 9  zm = 8  zs = 1  f = 0  zc = 1  zm = 8  zs = 2  f = 0  zc = 9  zm = 8  zs = 3  f = 0  zc = 9  zm = 8  zs = 0  f = 5		IDAT size = 748
+  zc = 9  zm = 8  zs = 1  f = 5		IDAT size = 728
+  zc = 1  zm = 8  zs = 2  f = 5  zc = 9  zm = 8  zs = 3  f = 5		IDAT size = 715
+
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/global/combobox.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/global/comment-box-agent.png
+575x100 pixels, 8 bits/pixel, 73 colors (53 transparent) in palette
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/global/comment-box-treatfeed.png
+575x100 pixels, 8 bits/pixel, 74 colors (53 transparent) in palette
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/global/comment-box-user.png
+575x100 pixels, 8 bits/pixel, 102 colors (53 transparent) in palette
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/global/comment-box-vendor.png
+575x100 pixels, 8 bits/pixel, 76 colors (53 transparent) in palette
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/global/cross-mark.png
+22x22 pixels, 4x8 bits/pixel, RGB+alpha
+Reducing image to 8 bits/pixel, 98 colors (97 transparent) in palette
+Input IDAT size = 518 bytes
+Input file size = 612 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0		IDAT size = 257
+  zc = 9  zm = 8  zs = 1  f = 0		IDAT size = 255
+  zc = 1  zm = 8  zs = 2  f = 0		IDAT size = 244
+  zc = 9  zm = 8  zs = 3  f = 0		IDAT size = 240
+  zc = 9  zm = 8  zs = 0  f = 5  zc = 9  zm = 8  zs = 1  f = 5  zc = 1  zm = 8  zs = 2  f = 5  zc = 9  zm = 8  zs = 3  f = 5                               
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/global/cross-mark.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/global/datagrid-header-brown.png
+680x30 pixels, 8 bits/pixel, 55 colors (46 transparent) in palette
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/global/delete_icon.png
+24x24 pixels, 4x8 bits/pixel, RGB+alpha
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/global/DetailWeb-Btn-1.png
+148x98 pixels, 8 bits/pixel, 57 colors (23 transparent) in palette
+Input IDAT size = 1378 bytes
+Input file size = 1690 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0		IDAT size = 1378
+  zc = 9  zm = 8  zs = 1  f = 0  zc = 1  zm = 8  zs = 2  f = 0  zc = 9  zm = 8  zs = 3  f = 0  zc = 9  zm = 8  zs = 0  f = 5  zc = 9  zm = 8  zs = 1  f = 5  zc = 1  zm = 8  zs = 2  f = 5  zc = 9  zm = 8  zs = 3  f = 5                               
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/global/DetailWeb-Btn-1.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/global/DetailWeb-Btn2.png
+148x98 pixels, 8 bits/pixel, 64 colors (25 transparent) in palette
+Input IDAT size = 1440 bytes
+Input file size = 1775 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0		IDAT size = 1440
+  zc = 9  zm = 8  zs = 1  f = 0  zc = 1  zm = 8  zs = 2  f = 0  zc = 9  zm = 8  zs = 3  f = 0  zc = 9  zm = 8  zs = 0  f = 5  zc = 9  zm = 8  zs = 1  f = 5  zc = 1  zm = 8  zs = 2  f = 5  zc = 9  zm = 8  zs = 3  f = 5                               
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/global/DetailWeb-Btn2.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/global/DetailWeb-Btn3.png
+148x98 pixels, 8 bits/pixel, 64 colors (25 transparent) in palette
+Input IDAT size = 1468 bytes
+Input file size = 1803 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0		IDAT size = 1468
+  zc = 9  zm = 8  zs = 1  f = 0  zc = 1  zm = 8  zs = 2  f = 0  zc = 9  zm = 8  zs = 3  f = 0  zc = 9  zm = 8  zs = 0  f = 5  zc = 9  zm = 8  zs = 1  f = 5  zc = 1  zm = 8  zs = 2  f = 5  zc = 9  zm = 8  zs = 3  f = 5                               
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/global/DetailWeb-Btn3.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/global/DetailWeb-Btn4.png
+148x98 pixels, 8 bits/pixel, 60 colors (23 transparent) in palette
+Input IDAT size = 1419 bytes
+Input file size = 1740 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0		IDAT size = 1419
+  zc = 9  zm = 8  zs = 1  f = 0  zc = 1  zm = 8  zs = 2  f = 0  zc = 9  zm = 8  zs = 3  f = 0  zc = 9  zm = 8  zs = 0  f = 5  zc = 9  zm = 8  zs = 1  f = 5  zc = 1  zm = 8  zs = 2  f = 5  zc = 9  zm = 8  zs = 3  f = 5                               
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/global/DetailWeb-Btn4.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/global/dotted-line.png
+662x8 pixels, 8 bits/pixel, 83 colors (83 transparent) in palette
+Input IDAT size = 1633 bytes
+Input file size = 2083 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0		IDAT size = 1644
+  zc = 9  zm = 8  zs = 1  f = 0		IDAT size = 1633
+  zc = 1  zm = 8  zs = 2  f = 0  zc = 9  zm = 8  zs = 3  f = 0  zc = 9  zm = 8  zs = 0  f = 5  zc = 9  zm = 8  zs = 1  f = 5  zc = 1  zm = 8  zs = 2  f = 5  zc = 9  zm = 8  zs = 3  f = 5                               
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/global/dotted-line.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/global/faq-sep.png
+660x35 pixels, 8 bits/pixel, grayscale+transparency
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/global/find-check-num.png
+652x419 pixels, 4x8 bits/pixel, RGB+alpha
+Input IDAT size = 42094 bytes
+Input file size = 42188 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0		IDAT size = 42094
+  zc = 9  zm = 8  zs = 1  f = 0  zc = 1  zm = 8  zs = 2  f = 0  zc = 9  zm = 8  zs = 3  f = 0  zc = 9  zm = 8  zs = 0  f = 5  zc = 9  zm = 8  zs = 1  f = 5  zc = 1  zm = 8  zs = 2  f = 5  zc = 9  zm = 8  zs = 3  f = 5                               
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/global/find-check-num.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/global/header-sep.png
+1x28 pixels, 3x8 bits/pixel, RGB
+Reducing image to 2 bits/pixel, 3 colors in palette
+Input IDAT size = 30 bytes
+Input file size = 124 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0		IDAT size = 15
+  zc = 9  zm = 8  zs = 1  f = 0		IDAT size = 15
+  zc = 1  zm = 8  zs = 2  f = 0  zc = 9  zm = 8  zs = 3  f = 0  zc = 9  zm = 8  zs = 0  f = 5  zc = 9  zm = 8  zs = 1  f = 5  zc = 1  zm = 8  zs = 2  f = 5  zc = 9  zm = 8  zs = 3  f = 5                               
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/global/header-sep.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/global/map-25x25.png
+25x25 pixels, 4x8 bits/pixel, RGB+alpha
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/global/map-32x32.png
+32x32 pixels, 4x8 bits/pixel, RGB+alpha
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/global/no-photo.png
+342x225 pixels, 8 bits/pixel, 126 colors (73 transparent) in palette
+Input IDAT size = 624 bytes
+Input file size = 1193 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0		IDAT size = 648
+  zc = 9  zm = 8  zs = 1  f = 0  zc = 1  zm = 8  zs = 2  f = 0  zc = 9  zm = 8  zs = 3  f = 0  zc = 9  zm = 8  zs = 0  f = 5		IDAT size = 629
+  zc = 9  zm = 8  zs = 1  f = 5		IDAT size = 624
+  zc = 1  zm = 8  zs = 2  f = 5  zc = 9  zm = 8  zs = 3  f = 5                               
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/global/no-photo.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/global/radio-btn-red.png
+20x18 pixels, 4x8 bits/pixel, RGB+alpha
+Reducing image to 8 bits/pixel, 144 colors (73 transparent) in palette
+Input IDAT size = 678 bytes
+Input file size = 3451 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0		IDAT size = 231
+  zc = 9  zm = 8  zs = 1  f = 0  zc = 1  zm = 8  zs = 2  f = 0  zc = 9  zm = 8  zs = 3  f = 0  zc = 9  zm = 8  zs = 0  f = 5  zc = 9  zm = 8  zs = 1  f = 5  zc = 1  zm = 8  zs = 2  f = 5  zc = 9  zm = 8  zs = 3  f = 5                               
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/global/radio-btn-red.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/global/radio-btn-wh.png
+20x18 pixels, 4x8 bits/pixel, RGB+alpha
+Reducing image to 8 bits/pixel, 106 colors (74 transparent) in palette
+Input IDAT size = 551 bytes
+Input file size = 3324 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0		IDAT size = 188
+  zc = 9  zm = 8  zs = 1  f = 0  zc = 1  zm = 8  zs = 2  f = 0  zc = 9  zm = 8  zs = 3  f = 0  zc = 9  zm = 8  zs = 0  f = 5  zc = 9  zm = 8  zs = 1  f = 5  zc = 1  zm = 8  zs = 2  f = 5  zc = 9  zm = 8  zs = 3  f = 5                               
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/global/radio-btn-wh.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/global/radio-btn-white.png
+20x18 pixels, 4x8 bits/pixel, RGB+alpha
+Reducing image to 8 bits/pixel, 106 colors (74 transparent) in palette
+Input IDAT size = 551 bytes
+Input file size = 3324 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0		IDAT size = 188
+  zc = 9  zm = 8  zs = 1  f = 0  zc = 1  zm = 8  zs = 2  f = 0  zc = 9  zm = 8  zs = 3  f = 0  zc = 9  zm = 8  zs = 0  f = 5  zc = 9  zm = 8  zs = 1  f = 5  zc = 1  zm = 8  zs = 2  f = 5  zc = 9  zm = 8  zs = 3  f = 5                               
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/global/radio-btn-white.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/global/slider-bar.png
+459x32 pixels, 4x8 bits/pixel, RGB+alpha
+Input IDAT size = 2711 bytes
+Input file size = 2805 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0  zc = 9  zm = 8  zs = 1  f = 0  zc = 1  zm = 8  zs = 2  f = 0  zc = 9  zm = 8  zs = 3  f = 0  zc = 9  zm = 8  zs = 0  f = 5  zc = 9  zm = 8  zs = 1  f = 5		IDAT size = 2711
+  zc = 1  zm = 8  zs = 2  f = 5  zc = 9  zm = 8  zs = 3  f = 5                               
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/global/slider-bar.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/global/slider-birdie.png
+37x60 pixels, 4x8 bits/pixel, RGB+alpha
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/global/sort-arrow.png
+10x9 pixels, 8 bits/pixel, 25 colors (23 transparent) in palette
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/global/View-Full-Size-Btn.png
+25x24 pixels, 4 bits/pixel, 16 colors (16 transparent) in palette
+Input IDAT size = 163 bytes
+Input file size = 345 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0		IDAT size = 163
+  zc = 9  zm = 8  zs = 1  f = 0  zc = 1  zm = 8  zs = 2  f = 0  zc = 9  zm = 8  zs = 3  f = 0  zc = 9  zm = 8  zs = 0  f = 5  zc = 9  zm = 8  zs = 1  f = 5  zc = 1  zm = 8  zs = 2  f = 5  zc = 9  zm = 8  zs = 3  f = 5                               
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/global/View-Full-Size-Btn.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/icons/aol.png
+35x35 pixels, 4x8 bits/pixel, RGB+alpha
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/icons/aolmail.png
+35x35 pixels, 4x8 bits/pixel, RGB+alpha
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/icons/applemail.png
+35x35 pixels, 4x8 bits/pixel, RGB+alpha
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/icons/big-social-tree.png
+310x251 pixels, 4x8 bits/pixel, RGB+alpha
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/icons/birdie.png
+35x35 pixels, 4x8 bits/pixel, RGB+alpha
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/icons/bluebird.png
+58x58 pixels, 4x8 bits/pixel, RGB+alpha
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/icons/email_icon.png
+20x20 pixels, 4x8 bits/pixel, RGB+alpha
+Reducing image to 8 bits/pixel, 216 colors (63 transparent) in palette
+Input IDAT size = 901 bytes
+Input file size = 995 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0		IDAT size = 382
+  zc = 9  zm = 8  zs = 1  f = 0  zc = 1  zm = 8  zs = 2  f = 0  zc = 9  zm = 8  zs = 3  f = 0  zc = 9  zm = 8  zs = 0  f = 5		IDAT size = 337
+  zc = 9  zm = 8  zs = 1  f = 5		IDAT size = 334
+  zc = 1  zm = 8  zs = 2  f = 5		IDAT size = 331
+  zc = 9  zm = 8  zs = 3  f = 5                               
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/icons/email_icon.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/icons/facebook_icon.png
+35x35 pixels, 4x8 bits/pixel, RGB+alpha
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/icons/facebook_icon_small.png
+20x20 pixels, 4x8 bits/pixel, RGB+alpha
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/icons/FBshare.png
+73x22 pixels, 8 bits/pixel, 86 colors (1 transparent) in palette
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/icons/gmail.png
+35x35 pixels, 4x8 bits/pixel, RGB+alpha
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/icons/hotmail.png
+35x35 pixels, 4x8 bits/pixel, RGB+alpha
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/icons/my_tree_big_black_bird.png
+55x55 pixels, 4x8 bits/pixel, RGB+alpha
+Reducing image to 8 bits/pixel, 241 colors (135 transparent) in palette
+Input IDAT size = 1388 bytes
+Input file size = 1482 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0		IDAT size = 803
+  zc = 9  zm = 8  zs = 1  f = 0  zc = 1  zm = 8  zs = 2  f = 0  zc = 9  zm = 8  zs = 3  f = 0  zc = 9  zm = 8  zs = 0  f = 5  zc = 9  zm = 8  zs = 1  f = 5  zc = 1  zm = 8  zs = 2  f = 5  zc = 9  zm = 8  zs = 3  f = 5                               
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/icons/my_tree_big_black_bird.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/icons/my_tree_big_blue_bird.png
+55x55 pixels, 4x8 bits/pixel, RGB+alpha
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/icons/my_tree_big_brown_bird.png
+55x55 pixels, 4x8 bits/pixel, RGB+alpha
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/icons/my_tree_big_red_bird.png
+55x55 pixels, 4x8 bits/pixel, RGB+alpha
+Reducing image to 8 bits/pixel, 241 colors (99 transparent) in palette
+Input IDAT size = 1594 bytes
+Input file size = 1688 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0		IDAT size = 797
+  zc = 9  zm = 8  zs = 1  f = 0  zc = 1  zm = 8  zs = 2  f = 0  zc = 9  zm = 8  zs = 3  f = 0  zc = 9  zm = 8  zs = 0  f = 5  zc = 9  zm = 8  zs = 1  f = 5  zc = 1  zm = 8  zs = 2  f = 5  zc = 9  zm = 8  zs = 3  f = 5                               
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/icons/my_tree_big_red_bird.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/icons/my_tree_big_yellow_bird.png
+55x55 pixels, 4x8 bits/pixel, RGB+alpha
+Reducing image to 8 bits/pixel, 216 colors (122 transparent) in palette
+Input IDAT size = 1213 bytes
+Input file size = 1307 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0		IDAT size = 736
+  zc = 9  zm = 8  zs = 1  f = 0  zc = 1  zm = 8  zs = 2  f = 0  zc = 9  zm = 8  zs = 3  f = 0  zc = 9  zm = 8  zs = 0  f = 5  zc = 9  zm = 8  zs = 1  f = 5  zc = 1  zm = 8  zs = 2  f = 5  zc = 9  zm = 8  zs = 3  f = 5                               
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/icons/my_tree_big_yellow_bird.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/icons/outlook.png
+35x35 pixels, 4x8 bits/pixel, RGB+alpha
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/icons/retweet.png
+73x25 pixels, 4x8 bits/pixel, RGB+alpha
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/icons/socialtree.png
+80x61 pixels, 4x8 bits/pixel, RGB+alpha
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/icons/tf_logo.png
+170x25 pixels, 4x8 bits/pixel, RGB+alpha
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/icons/twitter_icon.png
+35x35 pixels, 4x8 bits/pixel, RGB+alpha
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/icons/twitter_icon_small.png
+20x20 pixels, 4x8 bits/pixel, RGB+alpha
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/icons/yahoo.png
+35x35 pixels, 4x8 bits/pixel, RGB+alpha
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/locations/LocationMenu-Where-To-Sign-Small.png
+125x100 pixels, 4x8 bits/pixel, RGB+alpha
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/locations/LocationMenu-Where-To-Sign.png
+147x118 pixels, 4x8 bits/pixel, RGB+alpha
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/login_register/arrow_register_high.png
+168x199 pixels, 4x8 bits/pixel, RGB+alpha
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/login_register/arrow_register_low.png
+265x215 pixels, 4x8 bits/pixel, RGB+alpha
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/login_register/arrow_signin_high.png
+176x228 pixels, 4x8 bits/pixel, RGB+alpha
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/login_register/arrow_signin_low.png
+269x297 pixels, 4x8 bits/pixel, RGB+alpha
+Input IDAT size = 40397 bytes
+Input file size = 40491 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0  zc = 9  zm = 8  zs = 1  f = 0  zc = 1  zm = 8  zs = 2  f = 0  zc = 9  zm = 8  zs = 3  f = 0  zc = 9  zm = 8  zs = 0  f = 5  zc = 9  zm = 8  zs = 1  f = 5  zc = 1  zm = 8  zs = 2  f = 5  zc = 9  zm = 8  zs = 3  f = 5                               
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/login_register/arrow_signin_low.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/login_register/button_facebook.png
+199x33 pixels, 4x8 bits/pixel, RGB+alpha
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/login_register/button_go.png
+87x38 pixels, 4x8 bits/pixel, RGB+alpha
+Reducing image to 8 bits/pixel, 187 colors (155 transparent) in palette
+Input IDAT size = 1005 bytes
+Input file size = 3778 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0		IDAT size = 545
+  zc = 9  zm = 8  zs = 1  f = 0  zc = 1  zm = 8  zs = 2  f = 0  zc = 9  zm = 8  zs = 3  f = 0  zc = 9  zm = 8  zs = 0  f = 5		IDAT size = 465
+  zc = 9  zm = 8  zs = 1  f = 5  zc = 1  zm = 8  zs = 2  f = 5  zc = 9  zm = 8  zs = 3  f = 5		IDAT size = 459
+
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/login_register/button_go.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/login_register/go_button_grey.png
+95x45 pixels, 4 bits/pixel, 9 colors in palette
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/login_register/go_button_red.png
+95x45 pixels, 4x8 bits/pixel, RGB+alpha
+Reducing image to 8 bits/pixel, 189 colors (157 transparent) in palette
+Input IDAT size = 1274 bytes
+Input file size = 1368 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0		IDAT size = 745
+  zc = 9  zm = 8  zs = 1  f = 0  zc = 1  zm = 8  zs = 2  f = 0  zc = 9  zm = 8  zs = 3  f = 0  zc = 9  zm = 8  zs = 0  f = 5		IDAT size = 668
+  zc = 9  zm = 8  zs = 1  f = 5		IDAT size = 656
+  zc = 1  zm = 8  zs = 2  f = 5  zc = 9  zm = 8  zs = 3  f = 5		IDAT size = 650
+
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/login_register/go_button_red.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/login_register/go_button_white.png
+95x45 pixels, 8 bits/pixel, 99 colors (98 transparent) in palette
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/login_register/newacount_panel.png
+480x420 pixels, 4x8 bits/pixel, RGB+alpha
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/login_register/newacount_switch.png
+335x230 pixels, 4x8 bits/pixel, RGB+alpha
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/login_register/register_arrow.png
+180x210 pixels, 4x8 bits/pixel, RGB+alpha
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/login_register/register_arrow_worm.png
+275x225 pixels, 4x8 bits/pixel, RGB+alpha
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/login_register/register_big.png
+466x402 pixels, 4x8 bits/pixel, RGB+alpha
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/login_register/register_small.png
+327x220 pixels, 4x8 bits/pixel, RGB+alpha
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/login_register/signin_arrow.png
+180x240 pixels, 4x8 bits/pixel, RGB+alpha
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/login_register/signin_arrow_worm.png
+280x310 pixels, 4x8 bits/pixel, RGB+alpha
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/login_register/signin_big.png
+500x447 pixels, 4x8 bits/pixel, RGB+alpha
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/login_register/signin_button_grey.png
+95x45 pixels, 4x8 bits/pixel, RGB+alpha
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/login_register/signin_button_red.png
+95x45 pixels, 4x8 bits/pixel, RGB+alpha
+Reducing image to 8 bits/pixel, 241 colors (203 transparent) in palette
+Input IDAT size = 1320 bytes
+Input file size = 1414 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0		IDAT size = 829
+  zc = 9  zm = 8  zs = 1  f = 0  zc = 1  zm = 8  zs = 2  f = 0  zc = 9  zm = 8  zs = 3  f = 0  zc = 9  zm = 8  zs = 0  f = 5		IDAT size = 709
+  zc = 9  zm = 8  zs = 1  f = 5  zc = 1  zm = 8  zs = 2  f = 5  zc = 9  zm = 8  zs = 3  f = 5		IDAT size = 692
+
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/login_register/signin_button_red.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/login_register/signin_button_tan.png
+95x45 pixels, 4x8 bits/pixel, RGB+alpha
+Reducing image to 8 bits/pixel, 225 colors (203 transparent) in palette
+Input IDAT size = 1320 bytes
+Input file size = 1414 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0		IDAT size = 792
+  zc = 9  zm = 8  zs = 1  f = 0  zc = 1  zm = 8  zs = 2  f = 0  zc = 9  zm = 8  zs = 3  f = 0  zc = 9  zm = 8  zs = 0  f = 5		IDAT size = 689
+  zc = 9  zm = 8  zs = 1  f = 5  zc = 1  zm = 8  zs = 2  f = 5  zc = 9  zm = 8  zs = 3  f = 5		IDAT size = 675
+
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/login_register/signin_button_tan.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/login_register/signin_button_white.png
+95x45 pixels, 4x8 bits/pixel, RGB+alpha
+Reducing image to 8 bits/pixel, 190 colors (184 transparent) in palette
+Input IDAT size = 1182 bytes
+Input file size = 1276 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0		IDAT size = 743
+  zc = 9  zm = 8  zs = 1  f = 0  zc = 1  zm = 8  zs = 2  f = 0  zc = 9  zm = 8  zs = 3  f = 0  zc = 9  zm = 8  zs = 0  f = 5		IDAT size = 625
+  zc = 9  zm = 8  zs = 1  f = 5  zc = 1  zm = 8  zs = 2  f = 5  zc = 9  zm = 8  zs = 3  f = 5                               
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/login_register/signin_button_white.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/login_register/signin_panel.png
+505x460 pixels, 4x8 bits/pixel, RGB+alpha
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/login_register/signin_small.png
+333x225 pixels, 4x8 bits/pixel, RGB+alpha
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/login_register/signin_switch.png
+340x235 pixels, 4x8 bits/pixel, RGB+alpha
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/logo.png
+355x55 pixels, 8 bits/pixel, 139 colors (88 transparent) in palette
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/logobeta.png
+376x50 pixels, 4x8 bits/pixel, RGB+alpha
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/midsection/canvas_promo.png
+678x418 pixels, 4x8 bits/pixel, RGB+alpha
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/midsection/canvas_video.png
+750x460 pixels, 4x8 bits/pixel, RGB+alpha
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/midsection/CanvasPromo.png
+672x413 pixels, 4x8 bits/pixel, RGB+alpha
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/midsection/CanvasVideo.png
+738x456 pixels, 4x8 bits/pixel, RGB+alpha
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/midsection/save_circle.png
+110x110 pixels, 8 bits/pixel, 162 colors (161 transparent) in palette
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/midsection/SaveCircle.png
+90x89 pixels, 4x8 bits/pixel, RGB+alpha
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/midsection/timer_area.png
+312x375 pixels, 4x8 bits/pixel, RGB+alpha
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/midsection/timer_box.png
+238x87 pixels, 8 bits/pixel, 231 colors (230 transparent) in palette
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/midsection/TimerArea.png
+307x370 pixels, 4x8 bits/pixel, RGB+alpha
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/midsection/TimerBox.png
+223x82 pixels, 8 bits/pixel, 253 colors (252 transparent) in palette
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/midsection/tipping-1.png
+180x50 pixels, 4x8 bits/pixel, RGB+alpha
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/midsection/tipping-2.png
+179x60 pixels, 4x8 bits/pixel, RGB+alpha
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/midsection/tipping-3.png
+180x81 pixels, 4x8 bits/pixel, RGB+alpha
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/midsection/tipping-4.png
+177x96 pixels, 4x8 bits/pixel, RGB+alpha
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/midsection/tipping-5.png
+188x89 pixels, 4x8 bits/pixel, RGB+alpha
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/midsection/tool-tip.png
+238x87 pixels, 8 bits/pixel, 231 colors (230 transparent) in palette
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/midsection/TRF0101_Treatfeed_HowItWorks_WatchVideo_Web_v01.png
+750x465 pixels, 4x8 bits/pixel, RGB+alpha
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/midsection/worm.png
+225x75 pixels, 4x8 bits/pixel, RGB+alpha
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/overview/overview-balance-btn.png
+125x50 pixels, 4x8 bits/pixel, RGB+alpha
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/overview/overview-my-earnings-btn.png
+100x50 pixels, 4x8 bits/pixel, RGB+alpha
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/overview/overview-tools.png
+100x50 pixels, 4x8 bits/pixel, RGB+alpha
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/overview/overview_buddies.png
+100x50 pixels, 4x8 bits/pixel, RGB+alpha
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/overview/overview_city.png
+100x50 pixels, 4x8 bits/pixel, RGB+alpha
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/overview/overview_connect.png
+100x50 pixels, 4x8 bits/pixel, RGB+alpha
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/overview/overview_credit.png
+100x50 pixels, 8 bits/pixel, 252 colors (223 transparent) in palette
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/overview/overview_groups.png
+100x50 pixels, 4x8 bits/pixel, RGB+alpha
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/overview/overview_savings.png
+100x50 pixels, 4x8 bits/pixel, RGB+alpha
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/overview/overview_treat_voucher.png
+100x50 pixels, 4x8 bits/pixel, RGB+alpha
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/press/congrats-birds.png
+156x62 pixels, 8 bits/pixel, 77 colors (44 transparent) in palette
+Input IDAT size = 1845 bytes
+Input file size = 2238 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0		IDAT size = 1845
+  zc = 9  zm = 8  zs = 1  f = 0  zc = 1  zm = 8  zs = 2  f = 0  zc = 9  zm = 8  zs = 3  f = 0  zc = 9  zm = 8  zs = 0  f = 5  zc = 9  zm = 8  zs = 1  f = 5  zc = 1  zm = 8  zs = 2  f = 5  zc = 9  zm = 8  zs = 3  f = 5                               
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/press/congrats-birds.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/press/img-checkout.png
+191x64 pixels, 4x8 bits/pixel, RGB+alpha
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/press/Press-Logo-PNG-Format.png
+199x109 pixels, 8 bits/pixel, 119 colors in palette
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/press/Press-Logo-PNG24-Format
+Error: Can't open the input file
+
+** Processing: -
+Error: Can't open the input file
+
+** Processing: Copy.png
+Error: Can't open the input file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/press/Press-Logo-PNG24-Format.png
+199x109 pixels, 8 bits/pixel, 119 colors in palette
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/press/Press-screengrab-home-latestversion.png
+1192x795 pixels, 3x8 bits/pixel, RGB
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/press/Press-Screengrab-Home.png
+217x155 pixels, 4x8 bits/pixel, RGB+alpha
+Input IDAT size = 35665 bytes
+Input file size = 35759 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0  zc = 9  zm = 8  zs = 1  f = 0  zc = 1  zm = 8  zs = 2  f = 0  zc = 9  zm = 8  zs = 3  f = 0  zc = 9  zm = 8  zs = 0  f = 5  zc = 9  zm = 8  zs = 1  f = 5  zc = 1  zm = 8  zs = 2  f = 5  zc = 9  zm = 8  zs = 3  f = 5                               
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/press/Press-Screengrab-Home.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/press/Press-Screengrab-How-it-Works.png
+217x155 pixels, 4x8 bits/pixel, RGB+alpha
+Input IDAT size = 35665 bytes
+Input file size = 35759 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0  zc = 9  zm = 8  zs = 1  f = 0  zc = 1  zm = 8  zs = 2  f = 0  zc = 9  zm = 8  zs = 3  f = 0  zc = 9  zm = 8  zs = 0  f = 5  zc = 9  zm = 8  zs = 1  f = 5  zc = 1  zm = 8  zs = 2  f = 5  zc = 9  zm = 8  zs = 3  f = 5                               
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/press/Press-Screengrab-How-it-Works.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/press/Press-Screengrab-Register.png
+200x156 pixels, 4x8 bits/pixel, RGB+alpha
+Input IDAT size = 33121 bytes
+Input file size = 33215 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0  zc = 9  zm = 8  zs = 1  f = 0  zc = 1  zm = 8  zs = 2  f = 0  zc = 9  zm = 8  zs = 3  f = 0  zc = 9  zm = 8  zs = 0  f = 5  zc = 9  zm = 8  zs = 1  f = 5  zc = 1  zm = 8  zs = 2  f = 5  zc = 9  zm = 8  zs = 3  f = 5                               
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/press/Press-Screengrab-Register.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/press/Press_Divider.png
+1519x52 pixels, 3x8 bits/pixel, RGB
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/press/press_video.png
+585x344 pixels, 3x8 bits/pixel, RGB
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/press/press_video2.png
+585x346 pixels, 3x8 bits/pixel, RGB
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/press/Purchase-AMEX-Logo.png
+30x20 pixels, 8 bits/pixel, 256 colors in palette
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/press/Purchase-Discover-Logo.png
+27x18 pixels, 3x8 bits/pixel, RGB
+Reducing image to 8 bits/pixel, 233 colors in palette
+Input IDAT size = 843 bytes
+Input file size = 937 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0		IDAT size = 323
+  zc = 9  zm = 8  zs = 1  f = 0  zc = 1  zm = 8  zs = 2  f = 0  zc = 9  zm = 8  zs = 3  f = 0  zc = 9  zm = 8  zs = 0  f = 5  zc = 9  zm = 8  zs = 1  f = 5  zc = 1  zm = 8  zs = 2  f = 5  zc = 9  zm = 8  zs = 3  f = 5                               
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/press/Purchase-Discover-Logo.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/press/Purchase-MC-Logo.png
+27x18 pixels, 3x8 bits/pixel, RGB
+Input IDAT size = 1143 bytes
+Input file size = 1237 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0  zc = 9  zm = 8  zs = 1  f = 0  zc = 1  zm = 8  zs = 2  f = 0  zc = 9  zm = 8  zs = 3  f = 0  zc = 9  zm = 8  zs = 0  f = 5  zc = 9  zm = 8  zs = 1  f = 5  zc = 1  zm = 8  zs = 2  f = 5  zc = 9  zm = 8  zs = 3  f = 5		IDAT size = 1143
+
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/press/Purchase-MC-Logo.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/press/Purchase-Paypal-Logo.png
+29x19 pixels, 3x8 bits/pixel, RGB
+Input IDAT size = 942 bytes
+Input file size = 1036 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0  zc = 9  zm = 8  zs = 1  f = 0  zc = 1  zm = 8  zs = 2  f = 0  zc = 9  zm = 8  zs = 3  f = 0  zc = 9  zm = 8  zs = 0  f = 5  zc = 9  zm = 8  zs = 1  f = 5  zc = 1  zm = 8  zs = 2  f = 5  zc = 9  zm = 8  zs = 3  f = 5		IDAT size = 942
+
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/press/Purchase-Paypal-Logo.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/press/Purchase-Visa-Logo.png
+39x13 pixels, 3x8 bits/pixel, RGB
+Input IDAT size = 1168 bytes
+Input file size = 1262 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0		IDAT size = 1168
+  zc = 9  zm = 8  zs = 1  f = 0  zc = 1  zm = 8  zs = 2  f = 0  zc = 9  zm = 8  zs = 3  f = 0  zc = 9  zm = 8  zs = 0  f = 5  zc = 9  zm = 8  zs = 1  f = 5  zc = 1  zm = 8  zs = 2  f = 5  zc = 9  zm = 8  zs = 3  f = 5                               
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/press/Purchase-Visa-Logo.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/press/TreatFeedLogo.png
+350x50 pixels, 8 bits/pixel, 138 colors (88 transparent) in palette
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/publishersection/howitworks/box-1-graphic.png
+107x69 pixels, 4x8 bits/pixel, RGB+alpha
+Input IDAT size = 3221 bytes
+Input file size = 3315 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0		IDAT size = 3221
+  zc = 9  zm = 8  zs = 1  f = 0  zc = 1  zm = 8  zs = 2  f = 0  zc = 9  zm = 8  zs = 3  f = 0  zc = 9  zm = 8  zs = 0  f = 5  zc = 9  zm = 8  zs = 1  f = 5  zc = 1  zm = 8  zs = 2  f = 5  zc = 9  zm = 8  zs = 3  f = 5                               
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/publishersection/howitworks/box-1-graphic.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/publishersection/howitworks/box-2-graphic.png
+59x63 pixels, 4x8 bits/pixel, RGB+alpha
+Input IDAT size = 1852 bytes
+Input file size = 1946 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0		IDAT size = 1852
+  zc = 9  zm = 8  zs = 1  f = 0  zc = 1  zm = 8  zs = 2  f = 0  zc = 9  zm = 8  zs = 3  f = 0  zc = 9  zm = 8  zs = 0  f = 5  zc = 9  zm = 8  zs = 1  f = 5  zc = 1  zm = 8  zs = 2  f = 5  zc = 9  zm = 8  zs = 3  f = 5                               
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/publishersection/howitworks/box-2-graphic.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/publishersection/howitworks/box-3-graphic.png
+43x90 pixels, 4x8 bits/pixel, RGB+alpha
+Input IDAT size = 2361 bytes
+Input file size = 2455 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0		IDAT size = 2361
+  zc = 9  zm = 8  zs = 1  f = 0  zc = 1  zm = 8  zs = 2  f = 0  zc = 9  zm = 8  zs = 3  f = 0  zc = 9  zm = 8  zs = 0  f = 5  zc = 9  zm = 8  zs = 1  f = 5  zc = 1  zm = 8  zs = 2  f = 5  zc = 9  zm = 8  zs = 3  f = 5                               
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/publishersection/howitworks/box-3-graphic.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/publishersection/howitworks/create-account-over.png
+184x204 pixels, 4x8 bits/pixel, RGB+alpha
+Input IDAT size = 11142 bytes
+Input file size = 11236 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0		IDAT size = 11142
+  zc = 9  zm = 8  zs = 1  f = 0  zc = 1  zm = 8  zs = 2  f = 0  zc = 9  zm = 8  zs = 3  f = 0  zc = 9  zm = 8  zs = 0  f = 5  zc = 9  zm = 8  zs = 1  f = 5  zc = 1  zm = 8  zs = 2  f = 5  zc = 9  zm = 8  zs = 3  f = 5                               
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/publishersection/howitworks/create-account-over.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/publishersection/howitworks/create-account.png
+184x204 pixels, 4x8 bits/pixel, RGB+alpha
+Input IDAT size = 11082 bytes
+Input file size = 11176 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0		IDAT size = 11082
+  zc = 9  zm = 8  zs = 1  f = 0  zc = 1  zm = 8  zs = 2  f = 0  zc = 9  zm = 8  zs = 3  f = 0  zc = 9  zm = 8  zs = 0  f = 5  zc = 9  zm = 8  zs = 1  f = 5  zc = 1  zm = 8  zs = 2  f = 5  zc = 9  zm = 8  zs = 3  f = 5                               
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/publishersection/howitworks/create-account.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/publishersection/myWidgets/widget_bkgd.png
+728x90 pixels, 8 bits/pixel, 69 colors (6 transparent) in palette
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/publishersection/resize_handle.png
+16x16 pixels, 4x8 bits/pixel, RGB+alpha
+Reducing image to 8 bits/pixel, 90 colors (41 transparent) in palette
+Input IDAT size = 454 bytes
+Input file size = 3227 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0		IDAT size = 159
+  zc = 9  zm = 8  zs = 1  f = 0  zc = 1  zm = 8  zs = 2  f = 0  zc = 9  zm = 8  zs = 3  f = 0		IDAT size = 149
+  zc = 9  zm = 8  zs = 0  f = 5  zc = 9  zm = 8  zs = 1  f = 5  zc = 1  zm = 8  zs = 2  f = 5  zc = 9  zm = 8  zs = 3  f = 5                               
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/publishersection/resize_handle.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/purchase/birdie_scale_active.png
+185x88 pixels, 4x8 bits/pixel, RGB+alpha
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/purchase/birdie_scale_inactive.png
+179x75 pixels, 4x8 bits/pixel, RGB+alpha
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/purchase/congrats-background.png
+535x335 pixels, 8 bits/pixel, 255 colors (196 transparent) in palette
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/purchase/congrats-birds.png
+156x62 pixels, 8 bits/pixel, 77 colors (44 transparent) in palette
+Input IDAT size = 1845 bytes
+Input file size = 2238 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0		IDAT size = 1845
+  zc = 9  zm = 8  zs = 1  f = 0  zc = 1  zm = 8  zs = 2  f = 0  zc = 9  zm = 8  zs = 3  f = 0  zc = 9  zm = 8  zs = 0  f = 5  zc = 9  zm = 8  zs = 1  f = 5  zc = 1  zm = 8  zs = 2  f = 5  zc = 9  zm = 8  zs = 3  f = 5                               
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/purchase/congrats-birds.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/purchase/icon_email_friends.png
+45x38 pixels, 4x8 bits/pixel, RGB+alpha
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/purchase/icon_share_buddies.png
+45x38 pixels, 4x8 bits/pixel, RGB+alpha
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/purchase/img-checkout.png
+191x64 pixels, 4x8 bits/pixel, RGB+alpha
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/purchase/Press-Logo-PNG24-Format.png
+213x126 pixels, 8 bits/pixel, 206 colors (87 transparent) in palette
+Input IDAT size = 1592 bytes
+Input file size = 2415 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0		IDAT size = 1592
+  zc = 9  zm = 8  zs = 1  f = 0  zc = 1  zm = 8  zs = 2  f = 0  zc = 9  zm = 8  zs = 3  f = 0  zc = 9  zm = 8  zs = 0  f = 5  zc = 9  zm = 8  zs = 1  f = 5  zc = 1  zm = 8  zs = 2  f = 5  zc = 9  zm = 8  zs = 3  f = 5                               
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/purchase/Press-Logo-PNG24-Format.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/purchase/Press-screengrab-home-latestversion.png
+1192x795 pixels, 3x8 bits/pixel, RGB
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/purchase/Press-Screengrab-Home.png
+217x155 pixels, 4x8 bits/pixel, RGB+alpha
+Input IDAT size = 35665 bytes
+Input file size = 35759 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0  zc = 9  zm = 8  zs = 1  f = 0  zc = 1  zm = 8  zs = 2  f = 0  zc = 9  zm = 8  zs = 3  f = 0  zc = 9  zm = 8  zs = 0  f = 5  zc = 9  zm = 8  zs = 1  f = 5  zc = 1  zm = 8  zs = 2  f = 5  zc = 9  zm = 8  zs = 3  f = 5                               
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/purchase/Press-Screengrab-Home.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/purchase/Press-Screengrab-How-it-Works.png
+217x155 pixels, 4x8 bits/pixel, RGB+alpha
+Input IDAT size = 35665 bytes
+Input file size = 35759 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0  zc = 9  zm = 8  zs = 1  f = 0  zc = 1  zm = 8  zs = 2  f = 0  zc = 9  zm = 8  zs = 3  f = 0  zc = 9  zm = 8  zs = 0  f = 5  zc = 9  zm = 8  zs = 1  f = 5  zc = 1  zm = 8  zs = 2  f = 5  zc = 9  zm = 8  zs = 3  f = 5                               
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/purchase/Press-Screengrab-How-it-Works.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/purchase/Press-Screengrab-Register.png
+200x156 pixels, 4x8 bits/pixel, RGB+alpha
+Input IDAT size = 33121 bytes
+Input file size = 33215 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0  zc = 9  zm = 8  zs = 1  f = 0  zc = 1  zm = 8  zs = 2  f = 0  zc = 9  zm = 8  zs = 3  f = 0  zc = 9  zm = 8  zs = 0  f = 5  zc = 9  zm = 8  zs = 1  f = 5  zc = 1  zm = 8  zs = 2  f = 5  zc = 9  zm = 8  zs = 3  f = 5                               
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/purchase/Press-Screengrab-Register.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/purchase/press_video.png
+585x344 pixels, 3x8 bits/pixel, RGB
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/purchase/press_video2.png
+585x346 pixels, 3x8 bits/pixel, RGB
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/purchase/Purchase-AMEX-Logo.png
+30x20 pixels, 8 bits/pixel, 256 colors in palette
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/purchase/Purchase-Discover-Logo.png
+27x18 pixels, 3x8 bits/pixel, RGB
+Reducing image to 8 bits/pixel, 233 colors in palette
+Input IDAT size = 843 bytes
+Input file size = 937 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0		IDAT size = 323
+  zc = 9  zm = 8  zs = 1  f = 0  zc = 1  zm = 8  zs = 2  f = 0  zc = 9  zm = 8  zs = 3  f = 0  zc = 9  zm = 8  zs = 0  f = 5  zc = 9  zm = 8  zs = 1  f = 5  zc = 1  zm = 8  zs = 2  f = 5  zc = 9  zm = 8  zs = 3  f = 5                               
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/purchase/Purchase-Discover-Logo.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/purchase/Purchase-MC-Logo.png
+27x18 pixels, 3x8 bits/pixel, RGB
+Input IDAT size = 1143 bytes
+Input file size = 1237 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0  zc = 9  zm = 8  zs = 1  f = 0  zc = 1  zm = 8  zs = 2  f = 0  zc = 9  zm = 8  zs = 3  f = 0  zc = 9  zm = 8  zs = 0  f = 5  zc = 9  zm = 8  zs = 1  f = 5  zc = 1  zm = 8  zs = 2  f = 5  zc = 9  zm = 8  zs = 3  f = 5		IDAT size = 1143
+
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/purchase/Purchase-MC-Logo.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/purchase/Purchase-Paypal-Logo.png
+29x19 pixels, 3x8 bits/pixel, RGB
+Input IDAT size = 942 bytes
+Input file size = 1036 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0  zc = 9  zm = 8  zs = 1  f = 0  zc = 1  zm = 8  zs = 2  f = 0  zc = 9  zm = 8  zs = 3  f = 0  zc = 9  zm = 8  zs = 0  f = 5  zc = 9  zm = 8  zs = 1  f = 5  zc = 1  zm = 8  zs = 2  f = 5  zc = 9  zm = 8  zs = 3  f = 5		IDAT size = 942
+
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/purchase/Purchase-Paypal-Logo.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/purchase/Purchase-Visa-Logo.png
+39x13 pixels, 3x8 bits/pixel, RGB
+Input IDAT size = 1168 bytes
+Input file size = 1262 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0		IDAT size = 1168
+  zc = 9  zm = 8  zs = 1  f = 0  zc = 1  zm = 8  zs = 2  f = 0  zc = 9  zm = 8  zs = 3  f = 0  zc = 9  zm = 8  zs = 0  f = 5  zc = 9  zm = 8  zs = 1  f = 5  zc = 1  zm = 8  zs = 2  f = 5  zc = 9  zm = 8  zs = 3  f = 5                               
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/purchase/Purchase-Visa-Logo.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/purchase/worm_thanks.png
+77x118 pixels, 4x8 bits/pixel, RGB+alpha
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/scroller/scrollDownArrow.png
+18x15 pixels, 4 bits/pixel, 14 colors in palette
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/scroller/scrollDownArrowOver.png
+18x15 pixels, 4 bits/pixel, 9 colors in palette
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/scroller/scrollThumb.png
+18x50 pixels, 8 bits/pixel, 22 colors (21 transparent) in palette
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/scroller/scrollThumb2.png
+15x52 pixels, 8 bits/pixel, 97 colors (51 transparent) in palette
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/scroller/scrollThumbOver.png
+18x50 pixels, 4x8 bits/pixel, RGB+alpha
+Reducing image to 8 bits/pixel, 47 colors (46 transparent) in palette
+Input IDAT size = 330 bytes
+Input file size = 424 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0		IDAT size = 151
+  zc = 9  zm = 8  zs = 1  f = 0  zc = 1  zm = 8  zs = 2  f = 0  zc = 9  zm = 8  zs = 3  f = 0  zc = 9  zm = 8  zs = 0  f = 5  zc = 9  zm = 8  zs = 1  f = 5  zc = 1  zm = 8  zs = 2  f = 5  zc = 9  zm = 8  zs = 3  f = 5                               
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/scroller/scrollThumbOver.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/scroller/scrollTrack.png
+18x130 pixels, 1 bit/pixel, 1 color in palette
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/scroller/scrollUpArrow.png
+18x15 pixels, 4 bits/pixel, 14 colors in palette
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/scroller/scrollUpArrowOver.png
+18x15 pixels, 4 bits/pixel, 9 colors in palette
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/scroller/transparent.png
+5x5 pixels, 4x8 bits/pixel, RGB+alpha
+Reducing image to 1 bit/pixel, 1 color (1 transparent) in palette
+Input IDAT size = 21 bytes
+Input file size = 115 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0		IDAT size = 11
+  zc = 9  zm = 8  zs = 1  f = 0		IDAT size = 11
+  zc = 1  zm = 8  zs = 2  f = 0  zc = 9  zm = 8  zs = 3  f = 0		IDAT size = 10
+  zc = 9  zm = 8  zs = 0  f = 5  zc = 9  zm = 8  zs = 1  f = 5  zc = 1  zm = 8  zs = 2  f = 5  zc = 9  zm = 8  zs = 3  f = 5		IDAT size = 10
+
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/scroller/transparent.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/treats/birdie_yellow.png
+80x70 pixels, 4x8 bits/pixel, RGB+alpha
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/treats/details/bg-image-details-full.png
+619x98 pixels, 8 bits/pixel, 85 colors (60 transparent) in palette
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/treats/details/bg-image-details-tile.png
+149x98 pixels, 8 bits/pixel, 52 colors (27 transparent) in palette
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/treats/details/detail-thumb-1.png
+148x98 pixels, 8 bits/pixel, 57 colors (23 transparent) in palette
+Input IDAT size = 1378 bytes
+Input file size = 1690 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0		IDAT size = 1378
+  zc = 9  zm = 8  zs = 1  f = 0  zc = 1  zm = 8  zs = 2  f = 0  zc = 9  zm = 8  zs = 3  f = 0  zc = 9  zm = 8  zs = 0  f = 5  zc = 9  zm = 8  zs = 1  f = 5  zc = 1  zm = 8  zs = 2  f = 5  zc = 9  zm = 8  zs = 3  f = 5                               
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/treats/details/detail-thumb-1.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/treats/details/detail-thumb-2.png
+148x98 pixels, 8 bits/pixel, 64 colors (25 transparent) in palette
+Input IDAT size = 1440 bytes
+Input file size = 1775 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0		IDAT size = 1440
+  zc = 9  zm = 8  zs = 1  f = 0  zc = 1  zm = 8  zs = 2  f = 0  zc = 9  zm = 8  zs = 3  f = 0  zc = 9  zm = 8  zs = 0  f = 5  zc = 9  zm = 8  zs = 1  f = 5  zc = 1  zm = 8  zs = 2  f = 5  zc = 9  zm = 8  zs = 3  f = 5                               
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/treats/details/detail-thumb-2.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/treats/details/detail-thumb-3.png
+148x98 pixels, 8 bits/pixel, 64 colors (25 transparent) in palette
+Input IDAT size = 1468 bytes
+Input file size = 1803 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0		IDAT size = 1468
+  zc = 9  zm = 8  zs = 1  f = 0  zc = 1  zm = 8  zs = 2  f = 0  zc = 9  zm = 8  zs = 3  f = 0  zc = 9  zm = 8  zs = 0  f = 5  zc = 9  zm = 8  zs = 1  f = 5  zc = 1  zm = 8  zs = 2  f = 5  zc = 9  zm = 8  zs = 3  f = 5                               
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/treats/details/detail-thumb-3.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/treats/details/detail-thumb-4.png
+148x98 pixels, 8 bits/pixel, 60 colors (23 transparent) in palette
+Input IDAT size = 1419 bytes
+Input file size = 1740 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0		IDAT size = 1419
+  zc = 9  zm = 8  zs = 1  f = 0  zc = 1  zm = 8  zs = 2  f = 0  zc = 9  zm = 8  zs = 3  f = 0  zc = 9  zm = 8  zs = 0  f = 5  zc = 9  zm = 8  zs = 1  f = 5  zc = 1  zm = 8  zs = 2  f = 5  zc = 9  zm = 8  zs = 3  f = 5                               
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/treats/details/detail-thumb-4.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/treats/details/treat_thumbnail.png
+149x98 pixels, 8 bits/pixel, 53 colors (28 transparent) in palette
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/treats/details/upload-image.png
+342x225 pixels, 8 bits/pixel, 139 colors (70 transparent) in palette
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/treats/expired.png
+300x200 pixels, 4x8 bits/pixel, RGB+alpha
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/treats/inactive.png
+288x216 pixels, 8 bits/pixel, 159 colors in palette
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/treats/review/btn-add-comment.png
+150x40 pixels, 4x8 bits/pixel, RGB+alpha
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/treats/review/btn-go-back.png
+30x25 pixels, 4x8 bits/pixel, RGB+alpha
+Reducing image to 8 bits/pixel, 152 colors (108 transparent) in palette
+Input IDAT size = 685 bytes
+Input file size = 779 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0		IDAT size = 324
+  zc = 9  zm = 8  zs = 1  f = 0  zc = 1  zm = 8  zs = 2  f = 0  zc = 9  zm = 8  zs = 3  f = 0  zc = 9  zm = 8  zs = 0  f = 5		IDAT size = 289
+  zc = 9  zm = 8  zs = 1  f = 5		IDAT size = 281
+  zc = 1  zm = 8  zs = 2  f = 5  zc = 9  zm = 8  zs = 3  f = 5                               
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/treats/review/btn-go-back.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/treats/review/reviewtreats-accountmanager-sign.png
+90x130 pixels, 4x8 bits/pixel, RGB+alpha
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/treats/review/reviewtreats-agent-sign.png
+90x130 pixels, 4x8 bits/pixel, RGB+alpha
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/treats/review/reviewtreats-grass.png
+665x48 pixels, 8 bits/pixel, 125 colors (124 transparent) in palette
+Input IDAT size = 9184 bytes
+Input file size = 9801 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0		IDAT size = 9184
+  zc = 9  zm = 8  zs = 1  f = 0  zc = 1  zm = 8  zs = 2  f = 0  zc = 9  zm = 8  zs = 3  f = 0  zc = 9  zm = 8  zs = 0  f = 5  zc = 9  zm = 8  zs = 1  f = 5  zc = 1  zm = 8  zs = 2  f = 5  zc = 9  zm = 8  zs = 3  f = 5                               
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/treats/review/reviewtreats-grass.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/treats/review/reviewtreats-treatfeed-sign.png
+115x115 pixels, 8 bits/pixel, 225 colors (78 transparent) in palette
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/treats/review/reviewtreats-vendor-sign.png
+115x115 pixels, 8 bits/pixel, 193 colors (75 transparent) in palette
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/treats/sold.png
+300x200 pixels, 4x8 bits/pixel, RGB+alpha
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/united_we_save.png
+145x25 pixels, 8 bits/pixel, 18 colors (17 transparent) in palette
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/usersection/account/avatar_bg.png
+204x211 pixels, 8 bits/pixel, 141 colors (140 transparent) in palette
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/usersection/account/button_add_payment.png
+157x42 pixels, 4x8 bits/pixel, RGB+alpha
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/usersection/account/button_close.png
+29x30 pixels, 8 bits/pixel, 216 colors (105 transparent) in palette
+Input IDAT size = 618 bytes
+Input file size = 1489 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0		IDAT size = 681
+  zc = 9  zm = 8  zs = 1  f = 0  zc = 1  zm = 8  zs = 2  f = 0  zc = 9  zm = 8  zs = 3  f = 0  zc = 9  zm = 8  zs = 0  f = 5		IDAT size = 624
+  zc = 9  zm = 8  zs = 1  f = 5		IDAT size = 618
+  zc = 1  zm = 8  zs = 2  f = 5  zc = 9  zm = 8  zs = 3  f = 5                               
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/usersection/account/button_close.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/usersection/account/button_delete.png
+40x40 pixels, 4x8 bits/pixel, RGB+alpha
+Reducing image to 8 bits/pixel, 213 colors (135 transparent) in palette
+Input IDAT size = 1226 bytes
+Input file size = 1320 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0		IDAT size = 613
+  zc = 9  zm = 8  zs = 1  f = 0  zc = 1  zm = 8  zs = 2  f = 0  zc = 9  zm = 8  zs = 3  f = 0  zc = 9  zm = 8  zs = 0  f = 5		IDAT size = 606
+  zc = 9  zm = 8  zs = 1  f = 5		IDAT size = 591
+  zc = 1  zm = 8  zs = 2  f = 5  zc = 9  zm = 8  zs = 3  f = 5                               
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/usersection/account/button_delete.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/usersection/account/button_delete_rollover.png
+40x40 pixels, 4x8 bits/pixel, RGB+alpha
+Reducing image to 8 bits/pixel, 241 colors (145 transparent) in palette
+Input IDAT size = 1413 bytes
+Input file size = 1507 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0		IDAT size = 700
+  zc = 9  zm = 8  zs = 1  f = 0  zc = 1  zm = 8  zs = 2  f = 0  zc = 9  zm = 8  zs = 3  f = 0  zc = 9  zm = 8  zs = 0  f = 5		IDAT size = 630
+  zc = 9  zm = 8  zs = 1  f = 5		IDAT size = 630
+  zc = 1  zm = 8  zs = 2  f = 5  zc = 9  zm = 8  zs = 3  f = 5                               
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/usersection/account/button_delete_rollover.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/usersection/account/canvas_add_payment.png
+636x230 pixels, 8 bits/pixel, 233 colors (232 transparent) in palette
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/usersection/account/canvas_billing_info.png
+462x150 pixels, 8 bits/pixel, 222 colors (144 transparent) in palette
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/usersection/account/fly_to.png
+191x64 pixels, 8 bits/pixel, 212 colors (206 transparent) in palette
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/usersection/account/icon_amex.png
+57x47 pixels, 4x8 bits/pixel, RGB+alpha
+Input IDAT size = 4351 bytes
+Input file size = 4445 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0  zc = 9  zm = 8  zs = 1  f = 0  zc = 1  zm = 8  zs = 2  f = 0  zc = 9  zm = 8  zs = 3  f = 0  zc = 9  zm = 8  zs = 0  f = 5  zc = 9  zm = 8  zs = 1  f = 5		IDAT size = 4351
+  zc = 1  zm = 8  zs = 2  f = 5  zc = 9  zm = 8  zs = 3  f = 5                               
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/usersection/account/icon_amex.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/usersection/account/icon_discovery.png
+77x49 pixels, 4x8 bits/pixel, RGB+alpha
+Input IDAT size = 3134 bytes
+Input file size = 3228 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0		IDAT size = 3134
+  zc = 9  zm = 8  zs = 1  f = 0  zc = 1  zm = 8  zs = 2  f = 0  zc = 9  zm = 8  zs = 3  f = 0  zc = 9  zm = 8  zs = 0  f = 5  zc = 9  zm = 8  zs = 1  f = 5  zc = 1  zm = 8  zs = 2  f = 5  zc = 9  zm = 8  zs = 3  f = 5                               
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/usersection/account/icon_discovery.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/usersection/account/icon_mastercard.png
+78x49 pixels, 4x8 bits/pixel, RGB+alpha
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/usersection/account/icon_visa.png
+79x50 pixels, 4x8 bits/pixel, RGB+alpha
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/usersection/account/myaccount_canvas.png
+760x355 pixels, 4x8 bits/pixel, RGB+alpha
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/usersection/account/myavatar_canvas.png
+220x220 pixels, 8 bits/pixel, 251 colors (250 transparent) in palette
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/usersection/account/promo_box.png
+752x344 pixels, 4x8 bits/pixel, RGB+alpha
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/usersection/account/save_button.png
+157x42 pixels, 4x8 bits/pixel, RGB+alpha
+Reducing image to 8 bits/pixel, 203 colors (182 transparent) in palette
+Input IDAT size = 1369 bytes
+Input file size = 4142 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0		IDAT size = 797
+  zc = 9  zm = 8  zs = 1  f = 0  zc = 1  zm = 8  zs = 2  f = 0  zc = 9  zm = 8  zs = 3  f = 0  zc = 9  zm = 8  zs = 0  f = 5		IDAT size = 649
+  zc = 9  zm = 8  zs = 1  f = 5		IDAT size = 636
+  zc = 1  zm = 8  zs = 2  f = 5  zc = 9  zm = 8  zs = 3  f = 5		IDAT size = 623
+
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/usersection/account/save_button.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/usersection/aol.png
+49x17 pixels, 8 bits/pixel, 145 colors (84 transparent) in palette
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/usersection/birdnest_box.png
+198x64 pixels, 2x8 bits/pixel, grayscale+alpha
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/usersection/credit_card_bg.png
+470x165 pixels, 4x8 bits/pixel, RGB+alpha
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/usersection/gmail.png
+47x17 pixels, 4x8 bits/pixel, RGB+alpha
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/usersection/hotmail.png
+31x27 pixels, 4x8 bits/pixel, RGB+alpha
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/usersection/howitworks/box-1-graphic.png
+115x82 pixels, 8 bits/pixel, 244 colors (119 transparent) in palette
+Input IDAT size = 1098 bytes
+Input file size = 2067 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0		IDAT size = 1098
+  zc = 9  zm = 8  zs = 1  f = 0  zc = 1  zm = 8  zs = 2  f = 0  zc = 9  zm = 8  zs = 3  f = 0  zc = 9  zm = 8  zs = 0  f = 5  zc = 9  zm = 8  zs = 1  f = 5  zc = 1  zm = 8  zs = 2  f = 5  zc = 9  zm = 8  zs = 3  f = 5                               
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/usersection/howitworks/box-1-graphic.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/usersection/howitworks/box-2-graphic.png
+98x90 pixels, 4x8 bits/pixel, RGB+alpha
+Input IDAT size = 3358 bytes
+Input file size = 3452 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0		IDAT size = 3358
+  zc = 9  zm = 8  zs = 1  f = 0  zc = 1  zm = 8  zs = 2  f = 0  zc = 9  zm = 8  zs = 3  f = 0  zc = 9  zm = 8  zs = 0  f = 5  zc = 9  zm = 8  zs = 1  f = 5  zc = 1  zm = 8  zs = 2  f = 5  zc = 9  zm = 8  zs = 3  f = 5                               
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/usersection/howitworks/box-2-graphic.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/usersection/howitworks/box-3-graphic.png
+98x90 pixels, 4x8 bits/pixel, RGB+alpha
+Input IDAT size = 2718 bytes
+Input file size = 2812 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0		IDAT size = 2718
+  zc = 9  zm = 8  zs = 1  f = 0  zc = 1  zm = 8  zs = 2  f = 0  zc = 9  zm = 8  zs = 3  f = 0  zc = 9  zm = 8  zs = 0  f = 5  zc = 9  zm = 8  zs = 1  f = 5  zc = 1  zm = 8  zs = 2  f = 5  zc = 9  zm = 8  zs = 3  f = 5                               
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/usersection/howitworks/box-3-graphic.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/usersection/howitworks/create-account-over.png
+183x204 pixels, 4x8 bits/pixel, RGB+alpha
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/usersection/howitworks/create-account.png
+183x204 pixels, 4x8 bits/pixel, RGB+alpha
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/usersection/mytree/emoticons/cool.png
+19x22 pixels, 8 bits/pixel, 163 colors (47 transparent) in palette
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/usersection/mytree/emoticons/grin.png
+19x22 pixels, 4x8 bits/pixel, RGB+alpha
+Reducing image to 8 bits/pixel, 166 colors (44 transparent) in palette
+Input IDAT size = 874 bytes
+Input file size = 968 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0		IDAT size = 343
+  zc = 9  zm = 8  zs = 1  f = 0  zc = 1  zm = 8  zs = 2  f = 0  zc = 9  zm = 8  zs = 3  f = 0  zc = 9  zm = 8  zs = 0  f = 5		IDAT size = 341
+  zc = 9  zm = 8  zs = 1  f = 5		IDAT size = 337
+  zc = 1  zm = 8  zs = 2  f = 5		IDAT size = 330
+  zc = 9  zm = 8  zs = 3  f = 5                               
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/usersection/mytree/emoticons/grin.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/usersection/mytree/emoticons/innocent.png
+19x22 pixels, 4x8 bits/pixel, RGB+alpha
+Reducing image to 8 bits/pixel, 230 colors (80 transparent) in palette
+Input IDAT size = 976 bytes
+Input file size = 1070 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0		IDAT size = 373
+  zc = 9  zm = 8  zs = 1  f = 0  zc = 1  zm = 8  zs = 2  f = 0  zc = 9  zm = 8  zs = 3  f = 0  zc = 9  zm = 8  zs = 0  f = 5  zc = 9  zm = 8  zs = 1  f = 5  zc = 1  zm = 8  zs = 2  f = 5  zc = 9  zm = 8  zs = 3  f = 5                               
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/usersection/mytree/emoticons/innocent.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/usersection/mytree/emoticons/kiss.png
+19x22 pixels, 4x8 bits/pixel, RGB+alpha
+Reducing image to 8 bits/pixel, 204 colors (64 transparent) in palette
+Input IDAT size = 908 bytes
+Input file size = 1002 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0		IDAT size = 335
+  zc = 9  zm = 8  zs = 1  f = 0  zc = 1  zm = 8  zs = 2  f = 0  zc = 9  zm = 8  zs = 3  f = 0  zc = 9  zm = 8  zs = 0  f = 5  zc = 9  zm = 8  zs = 1  f = 5  zc = 1  zm = 8  zs = 2  f = 5  zc = 9  zm = 8  zs = 3  f = 5                               
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/usersection/mytree/emoticons/kiss.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/usersection/mytree/emoticons/naughty.png
+19x22 pixels, 4x8 bits/pixel, RGB+alpha
+Reducing image to 8 bits/pixel, 194 colors (66 transparent) in palette
+Input IDAT size = 925 bytes
+Input file size = 1019 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0		IDAT size = 345
+  zc = 9  zm = 8  zs = 1  f = 0  zc = 1  zm = 8  zs = 2  f = 0  zc = 9  zm = 8  zs = 3  f = 0  zc = 9  zm = 8  zs = 0  f = 5  zc = 9  zm = 8  zs = 1  f = 5  zc = 1  zm = 8  zs = 2  f = 5  zc = 9  zm = 8  zs = 3  f = 5                               
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/usersection/mytree/emoticons/naughty.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/usersection/mytree/emoticons/sealed.png
+19x22 pixels, 4x8 bits/pixel, RGB+alpha
+Reducing image to 8 bits/pixel, 170 colors (51 transparent) in palette
+Input IDAT size = 857 bytes
+Input file size = 951 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0		IDAT size = 343
+  zc = 9  zm = 8  zs = 1  f = 0  zc = 1  zm = 8  zs = 2  f = 0  zc = 9  zm = 8  zs = 3  f = 0  zc = 9  zm = 8  zs = 0  f = 5  zc = 9  zm = 8  zs = 1  f = 5		IDAT size = 343
+  zc = 1  zm = 8  zs = 2  f = 5		IDAT size = 337
+  zc = 9  zm = 8  zs = 3  f = 5                               
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/usersection/mytree/emoticons/sealed.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/usersection/mytree/emoticons/smile.png
+19x22 pixels, 4x8 bits/pixel, RGB+alpha
+Reducing image to 8 bits/pixel, 195 colors (57 transparent) in palette
+Input IDAT size = 895 bytes
+Input file size = 989 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0		IDAT size = 339
+  zc = 9  zm = 8  zs = 1  f = 0  zc = 1  zm = 8  zs = 2  f = 0  zc = 9  zm = 8  zs = 3  f = 0  zc = 9  zm = 8  zs = 0  f = 5  zc = 9  zm = 8  zs = 1  f = 5  zc = 1  zm = 8  zs = 2  f = 5  zc = 9  zm = 8  zs = 3  f = 5                               
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/usersection/mytree/emoticons/smile.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/usersection/mytree/emoticons/tounge.png
+19x22 pixels, 4x8 bits/pixel, RGB+alpha
+Reducing image to 8 bits/pixel, 183 colors (53 transparent) in palette
+Input IDAT size = 879 bytes
+Input file size = 973 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0		IDAT size = 338
+  zc = 9  zm = 8  zs = 1  f = 0  zc = 1  zm = 8  zs = 2  f = 0  zc = 9  zm = 8  zs = 3  f = 0  zc = 9  zm = 8  zs = 0  f = 5  zc = 9  zm = 8  zs = 1  f = 5  zc = 1  zm = 8  zs = 2  f = 5  zc = 9  zm = 8  zs = 3  f = 5                               
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/usersection/mytree/emoticons/tounge.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/usersection/mytree/emoticons/wink.png
+19x22 pixels, 4x8 bits/pixel, RGB+alpha
+Reducing image to 8 bits/pixel, 174 colors (50 transparent) in palette
+Input IDAT size = 863 bytes
+Input file size = 957 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0		IDAT size = 333
+  zc = 9  zm = 8  zs = 1  f = 0  zc = 1  zm = 8  zs = 2  f = 0  zc = 9  zm = 8  zs = 3  f = 0  zc = 9  zm = 8  zs = 0  f = 5  zc = 9  zm = 8  zs = 1  f = 5  zc = 1  zm = 8  zs = 2  f = 5  zc = 9  zm = 8  zs = 3  f = 5                               
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/usersection/mytree/emoticons/wink.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/usersection/mytree/emoticons/wow.png
+19x22 pixels, 4x8 bits/pixel, RGB+alpha
+Reducing image to 8 bits/pixel, 168 colors (52 transparent) in palette
+Input IDAT size = 883 bytes
+Input file size = 977 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0		IDAT size = 350
+  zc = 9  zm = 8  zs = 1  f = 0  zc = 1  zm = 8  zs = 2  f = 0  zc = 9  zm = 8  zs = 3  f = 0  zc = 9  zm = 8  zs = 0  f = 5  zc = 9  zm = 8  zs = 1  f = 5		IDAT size = 349
+  zc = 1  zm = 8  zs = 2  f = 5		IDAT size = 343
+  zc = 9  zm = 8  zs = 3  f = 5                               
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/usersection/mytree/emoticons/wow.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/usersection/mytree/emoticons/yay.png
+19x22 pixels, 4x8 bits/pixel, RGB+alpha
+Reducing image to 8 bits/pixel, 161 colors (42 transparent) in palette
+Input IDAT size = 863 bytes
+Input file size = 957 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0		IDAT size = 331
+  zc = 9  zm = 8  zs = 1  f = 0  zc = 1  zm = 8  zs = 2  f = 0  zc = 9  zm = 8  zs = 3  f = 0  zc = 9  zm = 8  zs = 0  f = 5  zc = 9  zm = 8  zs = 1  f = 5  zc = 1  zm = 8  zs = 2  f = 5  zc = 9  zm = 8  zs = 3  f = 5                               
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/usersection/mytree/emoticons/yay.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/usersection/mytree/my_tree.png
+320x260 pixels, 8 bits/pixel, 49 colors (32 transparent) in palette
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/usersection/mytree/my_tree_and_box.png
+340x325 pixels, 8 bits/pixel, 219 colors (171 transparent) in palette
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/usersection/mytree/my_tree_big_black_bird.png
+55x55 pixels, 4x8 bits/pixel, RGB+alpha
+Reducing image to 8 bits/pixel, 241 colors (135 transparent) in palette
+Input IDAT size = 1388 bytes
+Input file size = 1482 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0		IDAT size = 803
+  zc = 9  zm = 8  zs = 1  f = 0  zc = 1  zm = 8  zs = 2  f = 0  zc = 9  zm = 8  zs = 3  f = 0  zc = 9  zm = 8  zs = 0  f = 5  zc = 9  zm = 8  zs = 1  f = 5  zc = 1  zm = 8  zs = 2  f = 5  zc = 9  zm = 8  zs = 3  f = 5                               
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/usersection/mytree/my_tree_big_black_bird.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/usersection/mytree/my_tree_big_blue_bird.png
+55x55 pixels, 4x8 bits/pixel, RGB+alpha
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/usersection/mytree/my_tree_big_brown_bird.png
+55x55 pixels, 4x8 bits/pixel, RGB+alpha
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/usersection/mytree/my_tree_big_red_bird.png
+55x55 pixels, 4x8 bits/pixel, RGB+alpha
+Reducing image to 8 bits/pixel, 241 colors (99 transparent) in palette
+Input IDAT size = 1594 bytes
+Input file size = 1688 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0		IDAT size = 797
+  zc = 9  zm = 8  zs = 1  f = 0  zc = 1  zm = 8  zs = 2  f = 0  zc = 9  zm = 8  zs = 3  f = 0  zc = 9  zm = 8  zs = 0  f = 5  zc = 9  zm = 8  zs = 1  f = 5  zc = 1  zm = 8  zs = 2  f = 5  zc = 9  zm = 8  zs = 3  f = 5                               
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/usersection/mytree/my_tree_big_red_bird.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/usersection/mytree/my_tree_big_yellow_bird.png
+55x55 pixels, 4x8 bits/pixel, RGB+alpha
+Reducing image to 8 bits/pixel, 216 colors (122 transparent) in palette
+Input IDAT size = 1213 bytes
+Input file size = 1307 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0		IDAT size = 736
+  zc = 9  zm = 8  zs = 1  f = 0  zc = 1  zm = 8  zs = 2  f = 0  zc = 9  zm = 8  zs = 3  f = 0  zc = 9  zm = 8  zs = 0  f = 5  zc = 9  zm = 8  zs = 1  f = 5  zc = 1  zm = 8  zs = 2  f = 5  zc = 9  zm = 8  zs = 3  f = 5                               
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/usersection/mytree/my_tree_big_yellow_bird.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/usersection/mytree/my_tree_canvas.png
+730x710 pixels, 4x8 bits/pixel, RGB+alpha
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/usersection/mytree/my_tree_plus.png
+26x26 pixels, 8 bits/pixel, 163 colors (79 transparent) in palette
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/usersection/mytree/my_tree_small_black_bird.png
+25x25 pixels, 4x8 bits/pixel, RGB+alpha
+Reducing image to 8 bits/pixel, 162 colors (77 transparent) in palette
+Input IDAT size = 684 bytes
+Input file size = 778 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0		IDAT size = 363
+  zc = 9  zm = 8  zs = 1  f = 0  zc = 1  zm = 8  zs = 2  f = 0  zc = 9  zm = 8  zs = 3  f = 0  zc = 9  zm = 8  zs = 0  f = 5		IDAT size = 350
+  zc = 9  zm = 8  zs = 1  f = 5  zc = 1  zm = 8  zs = 2  f = 5  zc = 9  zm = 8  zs = 3  f = 5                               
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/usersection/mytree/my_tree_small_black_bird.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/usersection/mytree/my_tree_small_blue_bird.png
+25x25 pixels, 4x8 bits/pixel, RGB+alpha
+Reducing image to 8 bits/pixel, 214 colors (71 transparent) in palette
+Input IDAT size = 846 bytes
+Input file size = 940 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0		IDAT size = 408
+  zc = 9  zm = 8  zs = 1  f = 0  zc = 1  zm = 8  zs = 2  f = 0  zc = 9  zm = 8  zs = 3  f = 0  zc = 9  zm = 8  zs = 0  f = 5  zc = 9  zm = 8  zs = 1  f = 5		IDAT size = 405
+  zc = 1  zm = 8  zs = 2  f = 5  zc = 9  zm = 8  zs = 3  f = 5		IDAT size = 401
+
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/usersection/mytree/my_tree_small_blue_bird.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/usersection/mytree/my_tree_small_brown_bird.png
+25x25 pixels, 4x8 bits/pixel, RGB+alpha
+Reducing image to 8 bits/pixel, 217 colors (67 transparent) in palette
+Input IDAT size = 832 bytes
+Input file size = 926 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0		IDAT size = 405
+  zc = 9  zm = 8  zs = 1  f = 0  zc = 1  zm = 8  zs = 2  f = 0  zc = 9  zm = 8  zs = 3  f = 0  zc = 9  zm = 8  zs = 0  f = 5		IDAT size = 394
+  zc = 9  zm = 8  zs = 1  f = 5  zc = 1  zm = 8  zs = 2  f = 5  zc = 9  zm = 8  zs = 3  f = 5		IDAT size = 393
+
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/usersection/mytree/my_tree_small_brown_bird.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/usersection/mytree/my_tree_small_red_bird.png
+25x25 pixels, 4x8 bits/pixel, RGB+alpha
+Reducing image to 8 bits/pixel, 153 colors (65 transparent) in palette
+Input IDAT size = 796 bytes
+Input file size = 890 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0		IDAT size = 337
+  zc = 9  zm = 8  zs = 1  f = 0  zc = 1  zm = 8  zs = 2  f = 0  zc = 9  zm = 8  zs = 3  f = 0  zc = 9  zm = 8  zs = 0  f = 5  zc = 9  zm = 8  zs = 1  f = 5  zc = 1  zm = 8  zs = 2  f = 5  zc = 9  zm = 8  zs = 3  f = 5                               
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/usersection/mytree/my_tree_small_red_bird.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/usersection/mytree/my_tree_small_yellow_bird.png
+25x25 pixels, 4x8 bits/pixel, RGB+alpha
+Reducing image to 8 bits/pixel, 142 colors (71 transparent) in palette
+Input IDAT size = 571 bytes
+Input file size = 665 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0		IDAT size = 322
+  zc = 9  zm = 8  zs = 1  f = 0  zc = 1  zm = 8  zs = 2  f = 0  zc = 9  zm = 8  zs = 3  f = 0  zc = 9  zm = 8  zs = 0  f = 5  zc = 9  zm = 8  zs = 1  f = 5  zc = 1  zm = 8  zs = 2  f = 5  zc = 9  zm = 8  zs = 3  f = 5                               
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/usersection/mytree/my_tree_small_yellow_bird.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/usersection/outlook.png
+16x15 pixels, 8 bits/pixel, 26 colors (15 transparent) in palette
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/usersection/outlook_express.png
+16x17 pixels, 4x8 bits/pixel, RGB+alpha
+Reducing image to 8 bits/pixel, 233 colors (94 transparent) in palette
+Input IDAT size = 879 bytes
+Input file size = 973 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0		IDAT size = 296
+  zc = 9  zm = 8  zs = 1  f = 0		IDAT size = 296
+  zc = 1  zm = 8  zs = 2  f = 0  zc = 9  zm = 8  zs = 3  f = 0  zc = 9  zm = 8  zs = 0  f = 5		IDAT size = 283
+  zc = 9  zm = 8  zs = 1  f = 5		IDAT size = 278
+  zc = 1  zm = 8  zs = 2  f = 5		IDAT size = 278
+  zc = 9  zm = 8  zs = 3  f = 5		IDAT size = 278
+
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/usersection/outlook_express.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/usersection/overview/overview_buddies.png
+95x38 pixels, 4x8 bits/pixel, RGB+alpha
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/usersection/overview/overview_city.png
+75x47 pixels, 4x8 bits/pixel, RGB+alpha
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/usersection/overview/overview_credit.png
+34x47 pixels, 4x8 bits/pixel, RGB+alpha
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/usersection/overview/overview_groups.png
+81x49 pixels, 4x8 bits/pixel, RGB+alpha
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/usersection/overview/overview_savings.png
+95x39 pixels, 4x8 bits/pixel, RGB+alpha
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/usersection/overview/overview_treat_voucher.png
+52x52 pixels, 4x8 bits/pixel, RGB+alpha
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/usersection/print_icon.png
+41x41 pixels, 4x8 bits/pixel, RGB+alpha
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/usersection/tabbar_button_gray.png
+135x38 pixels, 4x8 bits/pixel, RGB+alpha
+Reducing image to 8 bits/pixel, 214 colors (205 transparent) in palette
+Input IDAT size = 1172 bytes
+Input file size = 3945 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0		IDAT size = 637
+  zc = 9  zm = 8  zs = 1  f = 0  zc = 1  zm = 8  zs = 2  f = 0  zc = 9  zm = 8  zs = 3  f = 0  zc = 9  zm = 8  zs = 0  f = 5		IDAT size = 534
+  zc = 9  zm = 8  zs = 1  f = 5		IDAT size = 533
+  zc = 1  zm = 8  zs = 2  f = 5  zc = 9  zm = 8  zs = 3  f = 5		IDAT size = 527
+
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/usersection/tabbar_button_gray.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/usersection/tabbar_button_red.png
+138x38 pixels, 4x8 bits/pixel, RGB+alpha
+Reducing image to 8 bits/pixel, 237 colors (210 transparent) in palette
+Input IDAT size = 1273 bytes
+Input file size = 4046 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0		IDAT size = 684
+  zc = 9  zm = 8  zs = 1  f = 0  zc = 1  zm = 8  zs = 2  f = 0  zc = 9  zm = 8  zs = 3  f = 0  zc = 9  zm = 8  zs = 0  f = 5		IDAT size = 577
+  zc = 9  zm = 8  zs = 1  f = 5		IDAT size = 566
+  zc = 1  zm = 8  zs = 2  f = 5  zc = 9  zm = 8  zs = 3  f = 5		IDAT size = 554
+
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/usersection/tabbar_button_red.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/usersection/yahoo.png
+57x11 pixels, 8 bits/pixel, 17 colors (16 transparent) in palette
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/vendorsection/howitworks/box-1-graphic.png
+59x58 pixels, 4x8 bits/pixel, RGB+alpha
+Input IDAT size = 2024 bytes
+Input file size = 2118 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0		IDAT size = 2024
+  zc = 9  zm = 8  zs = 1  f = 0  zc = 1  zm = 8  zs = 2  f = 0  zc = 9  zm = 8  zs = 3  f = 0  zc = 9  zm = 8  zs = 0  f = 5  zc = 9  zm = 8  zs = 1  f = 5  zc = 1  zm = 8  zs = 2  f = 5  zc = 9  zm = 8  zs = 3  f = 5                               
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/vendorsection/howitworks/box-1-graphic.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/vendorsection/howitworks/box-2-graphic.png
+114x70 pixels, 4x8 bits/pixel, RGB+alpha
+Input IDAT size = 3227 bytes
+Input file size = 3321 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0		IDAT size = 3227
+  zc = 9  zm = 8  zs = 1  f = 0  zc = 1  zm = 8  zs = 2  f = 0  zc = 9  zm = 8  zs = 3  f = 0  zc = 9  zm = 8  zs = 0  f = 5  zc = 9  zm = 8  zs = 1  f = 5  zc = 1  zm = 8  zs = 2  f = 5  zc = 9  zm = 8  zs = 3  f = 5                               
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/vendorsection/howitworks/box-2-graphic.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/vendorsection/howitworks/box-3-graphic.png
+98x90 pixels, 4x8 bits/pixel, RGB+alpha
+Input IDAT size = 2738 bytes
+Input file size = 2832 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0		IDAT size = 2738
+  zc = 9  zm = 8  zs = 1  f = 0  zc = 1  zm = 8  zs = 2  f = 0  zc = 9  zm = 8  zs = 3  f = 0  zc = 9  zm = 8  zs = 0  f = 5  zc = 9  zm = 8  zs = 1  f = 5  zc = 1  zm = 8  zs = 2  f = 5  zc = 9  zm = 8  zs = 3  f = 5                               
+/Users/mattotto/Sites/Dev.TreatFeed/src/images/website/vendorsection/howitworks/box-3-graphic.png is already optimized.
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/vendorsection/howitworks/create-account-over.png
+185x215 pixels, 4x8 bits/pixel, RGB+alpha
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/vendorsection/howitworks/create-account.png
+185x215 pixels, 4x8 bits/pixel, RGB+alpha
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/vendorsection/my-buyers/header-redemption.png
+276x37 pixels, 8 bits/pixel, 173 colors (96 transparent) in palette
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/voucher/brown_box.png
+2346x1560 pixels, 4x8 bits/pixel, RGB+alpha
+Error: Can't back up the existing output file
+
+** Processing: /Users/mattotto/Sites/Dev.TreatFeed/src/images/website/voucher/worm_thanks.png
+117x159 pixels, 4x8 bits/pixel, RGB+alpha
+Error: Can't back up the existing output file
+
+** Status report
+448 file(s) have been processed.
+263 error(s) have been encountered.
